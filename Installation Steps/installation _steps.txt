@@ -1,0 +1,42 @@
+
+Drop old databse
+
+Step 1: Create a database name: "what_the_book"
+step 2: import "what_the_book.sql" file from database folder
+
+
+=====================================================
+
+
+Admin Login
+
+use front end login panel for both user admin
+
+=====================================================
+
+Regarding files that are created but not used
+
+1. about.html and about.css is also there just see to it
+
+2. admin/index.php is there but link is removed due to some security issues
+
+
+
+you can add books and categories from books.docx
+and their images are alraedy placed in admin/images folder .
+just uploading of image is necessary.
+
+
+=====================================================
+
+More help 
+
+Contact at :  nilpatil2411@gmail.com
+                   9768742885
+
+
+
+
+
+
+ 

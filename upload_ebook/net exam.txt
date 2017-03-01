@@ -1,0 +1,6092 @@
+
+PRACTICE SET-A
+
+1. Number of devices that are related to recall and precision has been studied by
+(A) Gilchrist
+(B) Vickery
+(C) Lancaster
+(D) Ranganathan
+
+2. User studies in Social Sciences was carried out by
+(A) Kuhn
+(B) Brittain
+(C) Line
+(D) Allen
+
+3. An entry that is made for the subject of a chapter in a book is referred to as
+(A) Cross Reference Entry
+(B) Cross Reference Index Entry
+(C) Class Index Entry
+(D) Book Index Entry
+
+4. The concept of UBC was introduced by
+(A) UNESCO
+(B) LC
+(C) FID
+(D) IFLA
+
+5. In Sears, List of Subject Headings preferred headings are indicated by
+(A) Marking them as preferred headings
+(B) Printing them in bold type
+(C) Underlining them
+(D) Italicising them
+
+6. Identify the association that has changed its original name:
+(A) ILA
+(B) SLA
+(C) LA
+(D) ALA
+
+7. Conference proceedings are considered as documents.
+(A) Conventional
+(B) Primary
+(C) Secondary
+(D) Tertiary
+
+8. Rules for Dictionary Catalogue were devised by:
+(A) A. Pannizzi
+(B) C. C. Jewet
+(C) S. Lubetzky
+(D) C. A. Cutter
+
+9. RSS feed is a tool of:
+(A) Graphic design
+(B) Web 1.0
+(C) Web 2.0
+(D) Architecture
+
+10. An appropriate source to find out descriptive information is 
+(A) Bibliography
+(B) Directory
+(C) Encyclopedia
+(D) Dictionary
+
+11. Glossary is a:
+(A) List of technical words with definitions
+(B) List of words in a language
+(C) List of thematically arranged words
+(D) Alphabetical index to passages of work
+
+12. One of the following search engines is exclusively meant for scientific information:
+(A) Google
+(B) Yahoo
+(C) SCIRUS
+(D) Altavista
+
+13. Technological Gatekeeper is :
+(A) A formal method of giving current awareness service
+(B) A method of technology assessment and evaluation
+(C) A process of transfer of technology
+(D) An informal mechanism of keeping user informed of relevant development
+
+14. Who among the following honoured with ‘Nobel Prize’ for his substantial contribution in Documentation?
+(A) S. C. Bradford
+(B) Loosjes
+(C) Eric De Grolier
+(D) Henri La Fontaine
+
+15. The Farmington plan is associated with:
+(A) Library Legislation
+(B) Library Cataloguing
+(C) Library Cooperation
+(D) Library Indexing Service
+
+16. UNESCO assisted Model Public Library in India is located at:
+(A) Kolkata
+(B) Delhi
+(C) Mumbai
+(D) Chennai
+
+17. Mark the ‘odd one out’:
+(A) Cow-Calf principle
+(B) Principle of osmosis
+(C) Wall picture principle
+(D) Whole organ principle
+
+18. Information is …
+(A) Raw data
+(B) Raw knowledge
+(C) Input data
+(D) Organized data
+
+19. ‘Fair use’ is a term most relevant to:
+(A) Intellectual Property Rights
+(B) Books borrowed for home reading
+(C) Copy right
+(D) Use of reference books
+
+20. WIPO stands for:
+(A) World Information and Patents Organisation
+(B) World Intellectual Property Organisation
+(C) World International Property Organisation
+(D) World Information Protection Organisation
+
+21. Handling of Information in the sense of production is called:
+(A) Information Marketing
+(B) Information Industry
+(C) Information Production
+(D) Information Revolution
+
+22. GUI stands for :
+(A) Graphic User Interface
+(B) Graphic User Interaction
+(C) Graphic Utility Interface
+(D) Great Union of India
+
+23. Shelf list facilitates 
+(A) Classification
+(B) Weeding out
+(C) Stock verification
+(D) Documentation
+
+24. The office of Patent Information System in India is at 
+(A) Mumbai
+(B) New Delhi
+(C) Kolkata
+(D) Nagpur
+
+25. Questionnaire is a:
+(A) Research method
+(B) Measurement technique
+(C) Tool for data collection
+(D) Data analysis technique
+
+26. A periodical evaluation of an employee is done through 
+(A) Job rotation
+(B) Performance appraisal
+(C) Refresher course
+(D) Work guide
+
+27. CCF stands for 
+(A) Current Classification Format
+(B) Current Communication Format
+(C) Common Communication Format
+(D) Common Classification Format
+
+28. “Controlled Group” is a term used in 
+(A) Survey research
+(B) Historical research
+(C) Experimental research
+(D) Descriptive research
+
+29. ‘Noise’ in Information Retrieval is due to 
+(A) Precision
+(B) Recall
+(C) Relevant information
+(D) Redundant information
+
+30. BERN CONVENTION (1886) is concerned with:
+(A) Translations
+(B) Copyright
+(C) Patent
+(D) Standards
+
+31. List-I                                                            List-II
+   (Forms of Communication)                                (Medium)
+(A) Communication Barrier                                1. Radio 
+(B) Communication Medium                               2. Shannon and Weaver
+(C) Communication Model                                 3. Formal
+(D) Communication Channel                               4. Noise
+Code :
+              (a)         (b)            (c)           (d)
+(A)          1           2              3             4
+(B)           4          1              2             3
+(C)          2           3              4             1
+(D)          3           2              1             4
+
+32. Informal communication among knowledgeable person is known as:
+(A) Invisible College
+(B) Information Gatekeeper
+(C) Communication Gatekeeper
+(D) Knowledge Management
+
+33. Match the following :
+         List-I                                                            List-II
+   (  Terms )                                                            (Forms of Communication)
+(A) Invisible College                                             1. Physical carrier
+(B) Noise                                                             2. Formal channel
+(C) Medium                                                         3. Barreir
+(D) Document                                                      4. Informal channel
+Code :
+              (a)         (b)            (c)           (d)
+(A)           1          2              3             4
+(B)           2          1              3             4
+(C)          4           3              2             1
+(D)          4           3              1             2
+
+34. Which one of the following is not associated with the communication system?
+ (A) Receiver                               
+(B) Channel                             
+(C) Sender                               
+(D) Entropy                         
+
+35. Which is correct logical sequence of the following?
+(A)  Information, Knowledge, Data, Wisdom                             
+(B)  Knowledge, Wisdom, Information, Data                           
+(C)  Wisdom, Information, Data, Knowledge                               
+(D)  Data, Infomation, Knowledge, Wisdom                       
+
+36. The invisible web refers to-
+(A)  the internet, since we cannot see it                             
+(B)  that part of the internet, which is hidden from the search engines                           
+(C)  the telecommunication signals which are not seen                               
+(D)  the failure in accessing the web pages                         
+
+37. Who was the chairman of National Library Committee of India.
+(A)   B.S. Jha                         
+(B)  K.P. Sinha                         
+(C)  S. Mudaliar                               
+(D)  C.D. Deshmukh                       
+
+38. Which organisation applied Library and Information Policy in India at national level.
+(A)   NISSAT                         
+(B)  INSDOC                       
+(C) UNESCO                             
+(D)  RRRLF               
+
+39. Where is the head quarter of Patent Information System in India.
+(A)   Pune                   
+(B)   Mumbai                   
+(C)  Nagpur                         
+(D)  Delhi                     
+
+40. The act enacted in India in 1856 on Intellectual Property Right was based on .
+(A)  American Patent Law 1810                         
+(B)  British Patent Law 1852           
+(C)  The Patent Bill                           
+(D)  The Design Act of 1911                     
+
+41. Whether intellectual property can be sold.
+(A)  No
+(B)  Sale is possible
+(C)  Yes
+(D)  None of these
+
+42. The term communication came from which language?
+(A)  Greek
+(B)  Latin
+(C)  German
+(D)  French
+
+43. Who is the propounder of the term information transfer?
+(A)  Ranganathan                 
+(B)  J.Martin                     
+(C)  Beesman                       
+(D)  Calvin Moores       
+
+44. To which country the credit is given to coin the term information society ?
+(A)  USA             
+(B)  France                 
+(C)  Japan                   
+(D)  India                 
+
+45. Today information is regarded as which of the following ?
+(A)   Wealth             
+(B)  Commodity             
+(C)  Products         
+(D)  All the above                 
+
+46. Now a day what is a most important vital resource for societal development of a country?
+(A)  Books           
+(B)  Kowledge               
+(C)  Information                 
+(D)  Data                   
+
+47. What is the unit of information?
+(A)  Bit               
+(B)  Byte             
+(C)  Gram                 
+(D)  Hertz                 
+
+48. Delivery of Book Act passed in the year
+(A) 1963
+(B) 1972
+(C) 1960
+(D) 1954
+
+49. Who is the Father of a Computer
+(A) Steve Jobs
+(B) Vint Cerf
+(C) Tim Berners-Lee
+(D) Charles Babbage
+
+50. The concept “Invisible College” first used by:
+(A) Eugene Garfield
+(B) Derek Solla Price
+(C) Allent Kent
+(D) Carl Savage
+
+51. Who enunciated the term ‘Hypertext’?
+(A) E. Garfield
+(B) Bill Gates
+(C) Ted Nelson
+(D) Raj Reddy
+
+52.  ‘Cranfield Project’ is an example of 
+(A) Experimental Research
+(B) Survey Research
+(C) Case Study
+(D) Historical Research
+
+53. IFLA took up the “Universal Availability of Publication” program in the year…………
+(A) 1973
+(B) 1976
+(C) 1972
+(D) 1970
+
+54. International Information System on Research in Documentation (ISORID) was established by:
+(A) IFLA
+(B) UNESCO
+(C) SLA
+(D) ALA
+
+55. When Dr.S. R. Ranganathan was appointed as a National research professor of Library Science
+(A) 1942
+(B) 1962
+(C) 1972
+(D) 1952
+
+56. Which Indian University first started M.Lib.Sc. & M.Phil courses
+(A) University of Delhi
+(B) University of Madras
+(C) S.N.D.T. Women University, Bombay
+(D) Aligar Muslim University
+
+57. Which Commission recommended 10% of the total college budget for development of Libraries?
+(A) Dr. S. R. Ranganathan Committee
+(B) Mehrotra Committee
+(C) Kothari committee
+(D) Curriculum development committee in LIS
+
+58. Who gave the sixth law of library science “Every reader his/her freedom”?
+(A) Walt Crawford
+(B) Michael Gorman
+(C) James R. Rettig
+(D) Lenart Bjorneborn
+
+59. Who publishes INIS Atom Index?
+(A) INIS (Viena)
+(B) LC
+(C ) ICSU
+(D) AGRIS
+
+60. Where was the first library noticed in India?
+(A) Taxila
+(B) Nalanda
+(C) Vallabhi
+(D) Sravasti
+
+61. The five laws of Library Science published in the book form in the year
+(A)1924
+(B)1931
+(C)1928
+(D)1930
+
+62. Library Techology Report is a publication of
+(A) ALA
+(B) IASLIC
+(C) LA
+(D) ILA
+
+63. ABGILA is a quarterly publication of
+(A) Assam Library Association
+(B) Andhra Desa Library Association
+(C) Indian Library Association
+(D) Raja Ram Mohun Roy Foundation
+
+64. Match the following
+(A)  American Library Association                    a)1946
+(B)The Canadian Library Association                b)1932
+(C)Special Libraries Association                       c)1909
+ D)The Association of Research Libraries         d)1876
+Codes
+(A) c, b,d,a
+(B) a,c,d,b
+(C) b,a,d,c
+(D) d,a,c,b
+
+65.  What is the meaning of E-Documents?
+(A) All Documents other than printed
+(B) Non-Paper documents
+(C ) In electronic form such as Cassettes, CD-ROMs, etc.
+(D) Audio visual tools
+
+66. Which of the following is not the document?
+(A) Manuscript
+(B) Book
+(C) Inscription
+(D) Periodical
+
+67. Generally the information sources are divided mainly in to following categories?
+(A) Primary and secondary.
+(B) Reference and information sources.
+(C) Documentary and non-documentary
+(D) Books and periodicals
+
+68. Which service demands the creation of a ‘user’ profile?
+(A) CAS
+(B) Information retrieval
+(C) SDI
+(D) Reference service
+
+69. “Reference service is the contact between the right reader and the right book in the right personal way” was stated by…
+(A) D J Foskett
+(B) S R Ranganathan
+(C) James I Wyer
+(D) A.L.A Glossary of library terms
+
+70. What are non- documentary sources?
+(A) Which are in printed form.
+(B) Which are in not printed form
+(C) Which are nor documents
+(D) None of these
+
+71. Today which type of information sources is most useful?
+(A) Reference sources
+(B) Documentary source
+(C) Non- Documentary source
+(D) Both the Documentary and Non-Documentary sources
+
+72. Cover to cover translation is treated as
+(A) Selective dissemination service
+(B) Current awareness services
+(C) On demand services
+(D) Anticipatory services
+
+73. Abstracting service provides…
+(A) Abstract of articles
+(B) Whole bibliographic description of articles
+(C) Whole bibliographic description along with abstracts of article
+(D) Whole bibliographic sources
+
+74. Mobile library is a kind of which service?
+(A) Reference service
+(B) Extension service
+(C) Ready reference service
+(D) Long range reference service
+
+75. Sear’s List of Subject Headings (SLSH) is mainly useful for
+(A) Small and medium libraries
+(B) Special libraries
+(C) Academic libraries
+(D) College libraries
+
+76. Who enunciated the five fundamental categories
+(A) Benjamin A. Custer
+(B) Paul Otlet
+(C) Dr. S. R. Ranganathan
+(D) W. C. Sayers
+
+77. Who enunciated the subject Classification
+(A) J. D. Brown
+(B) W. C. Sayers
+(C) Benjamin A.Custer
+(D) Frist Donker Duyvis
+
+78. How many Auxiliary tables are there in DDC 23rd Edition
+(A) 16
+(B) 6
+(C) 7
+(D) 8
+
+79. Colon classification was first published in
+(A) 1905
+(B) 1931
+(C) 1933
+(D) 1944
+
+80. Phoenix schedules are part of which classification
+(A) CC
+(B) DDC
+(C) UDC
+(D) LCC
+
+81. The person who provides reference service is called
+(A) Chief librarian
+(B) Grade One Librarian
+(C) Deputy Librarian
+(D) Reference Librarian
+
+82. CAS is defined as
+(A) A process of dissemination of information
+(B) A process of information
+(C) A process of dissemination of current information
+(D) A simple information service
+
+83. Feedback mechanism is a part of which service?
+(A) Reprography service
+(B) CAS
+(C) Translation service
+(D) SDI
+
+84. Who is the Editor in Chief of 23rd Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+
+85. The term prenatal cataloguing first used by
+(A) Michael Gorman
+(B) Dr. S.R.Ranganathan
+(C) E.B.Ross
+(D) Melvin Dewey
+
+86. “POSDCORB” coined by
+(A) Peter F. Drucker
+(B) Harold Koontz
+(C) F.W. Taylor
+(D) Luther Gulick
+
+87. When was the different typological study towards mode of formation of subjects done?
+(A) 1950
+(B) 1960
+(C) 1970
+(D) 1975
+
+88. In which edition “Auxiliary table for area” was first introduced?
+(A) DDC 14
+(B) DDC 15
+(C) DDC 16
+(D) DDC 17
+
+89. What does LED stands for in CC?
+(A) Latest Energy Developments
+(B) Latest Effective Decade
+(C) Large Energy Distribution
+(D) Lowest Effective Decade
+
+90. When Peter F. Drucker defined M.B.O. (Management by Objectives) ?
+(A) 1950
+(B) 1960
+(C)1954
+(D) 1964
+
+91. Who said the demand and supply theory of books?
+(A) Melvil Dewey
+(B) Dr. S. R. Ranganathan
+(C) Mc Colvin
+(D) Sayers
+
+92. Who devised Dewey Decimal Classification (DDC) System?
+(A) Melville Dewey
+(B) Dr. S. R. Ranganathan
+(C) Tim Berners-Lee
+(D) Vint Cerf
+
+93. Periodicity of IASLIC Bulletin is?
+(A) Quarterly
+(B) Monthly
+(C) Half- Yearly
+(D) Annual
+
+94. Call Number of a Book Means
+(A) Book Number
+(B) Class Number
+(C) Both (A) and (B) are true
+(D) None of the above
+
+95. Zero Base Budgeting system was propounded by
+(A) Peter F. Drucker
+(B) P.N. Kaula
+(C) E.Mayo
+(D) Pter Phyrr
+
+96. When Zero Base Budgeting system was first prepared
+(A)1950
+(B) 1960
+(C)1970
+(D) 1980
+
+97. Posting the right person at the right place is called ________
+(A) Recruitment
+(B) Coaching
+(C) Deployment
+(D) Induction
+
+98. Sheets before and after the text of a book are called _________. .
+A. End papers
+B. Attach cover
+C Head bands
+D Gilding
+
+99. TQM is a system of continuous improvement employing participative management and centered on needs of the ________
+(A) Customers
+(B) Staff
+(C) Organization
+(D) Government
+
+100.Financial support given to libraries are of two types (i) Recurring and(ii)………
+(A) Ad-hoc
+(B) Endowments
+(C) Annual
+(D) Non-recurring
+------------------------------------------------------------------------------------------------------------
+Answers
+1) Answer: (C)
+2) Answer: (A)
+3) Answer: (A)
+4) Answer: (A)
+5) Answer: (B)
+6) Answer: (C)
+7) Answer: (B)
+8) Answer: (D)
+9) Answer: (C)
+10) Answer: (C)
+11) Answer: (A)
+12) Answer: (C)
+13) Answer: (D)
+14) Answer: ()*
+15) Answer: ()*
+16) Answer: (B)
+17) Answer: (C)
+18) Answer: (D)
+19) Answer: (C)
+20) Answer: (B)
+21) Answer: (B)
+22) Answer: (A)
+23) Answer: (C)
+24) Answer: (B)*
+25) Answer: (C)
+26) Answer: (B)
+27) Answer: (C)
+28) Answer: (C)*
+29) Answer: (D)
+30) Answer: (B)
+31) Answer: (B)
+32) Answer: (A)
+33) Answer: (C)
+34) Answer: (D)
+35) Answer: (D)
+36) Answer: (B)
+37) Answer: (A)
+38) Answer: (D)
+39) Answer: (C)
+40) Answer: (B)
+41) Answer: (B)
+42) Answer: (B)
+43) Answer: (C)
+44) Answer: (C)
+45) Answer: (D)
+46) Answer: (C)
+47) Answer: (A)
+48) Answer: (D)
+49) Answer: (D)
+50) Answer: (A)*
+51) Answer: (C)
+52) Answer: (A)
+53) Answer: (B)
+54) Answer: (C)
+55) Answer: (B)
+56) Answer: (A)
+57) Answer: (C)
+58) Answer: (C)
+59) Answer: (A)
+60) Answer: (D)
+61) Answer: (B)
+62) Answer: (A)
+63) Answer: (C)
+64) Answer: (D)
+65) Answer: (C)
+66) Answer: (C)
+67) Answer: (C)
+68) Answer: (C)
+69) Answer: (B)
+70) Answer: (B)
+71) Answer: (C)
+72) Answer: (B)
+73) Answer: (C)
+74) Answer: (B)
+75) Answer: (A)
+76) Answer: (C)
+77) Answer: (A)
+78) Answer: (B)
+79) Answer: (C)
+80) Answer: (B)
+81) Answer: (D)
+82) Answer: (C)
+83) Answer: (D)
+84) Answer: (D)
+85) Answer: (B)
+86) Answer: (D)
+87) Answer: (A)
+88) Answer: (D)
+89) Answer: (B)
+90) Answer: (C)
+91) Answer: (C)
+92) Answer: (A)
+93) Answer: (A)
+94) Answer: (C)
+95) Answer: (D)
+96) Answer: (C)
+97) Answer: (A)
+98) Answer: (A)
+99) Answer: (C)
+100) Answe:(B)
+
+
+
+
+
+
+
+
+UGC-NET Objective Question, Practice Set B (1) with answer
+
+
+1) Hybrid library deals with 
+(A) Print Collection 
+(B) Digital Collection 
+(C) Both (A) and (B) 
+(D) None of the above 
+
+2) Dewey Decimal Classification (DDC) is now looked after by? 
+(A) UNESCO 
+(B) CILIP 
+(C) ALA 
+(D) OCLC 
+
+3) Which type of books should be weeded in a library? 
+(A) Superseded editions 
+(B) Theasurus 
+(C) Dictionary 
+(D) Encyclopaedia 
+
+4) The standard size of a catalogue card is 
+(A) 12.5 cm X 7.5 cm 
+(B) 12 cm X 7 cm 
+(C) 11 cm X 5 cm 
+(D) 10 cm X 4 cm 
+
+5) The Library of Congress Classification system divides human knowledge into 
+(A) 20 major classes. 
+(B) 21 major classes. 
+(C) 25 major classes. 
+(D) 30 major classes. 
+
+6) The Delivery of Books (Public Libraries) Act, 1954 was not implemented in 
+(A) Assam 
+(B) Jammu and Kashmir 
+(C) Haryana 
+(D) Delhi 
+
+7) Who invented World Wide Web (WWW) 
+(A) Vint Cerf 
+(B) Charles Babbage 
+(C) Tim Berners-Lee 
+(D) Steve Jobs 
+
+8) According to General Financial Rules, 2005, loss of how many volumes per thousand volumes issued / consulted in a year is to be taken as reasonable. 
+(A) Three 
+(B) Four 
+(C) Five 
+(D) Six 
+
+9) According to Ranganathan, many collections lose its relevance in how many years? 
+(A) 20 years. 
+(B) 30 years 
+(C) 40 Years 
+(D) 50 years. 
+
+10) Annual withdrawals from the collection should average at least how many percent of the total collection.
+(A) 5%
+(B) 10%
+(C) 15%
+(D) 20%
+
+11) The standard size of a catalogue card is
+(A) 5 inch X 3 inch
+(B) 4 inch X 3 inch
+(C) 4 inch X 4 inch
+(D) 3 inch X 3 inch
+
+12) IFLA Head office located at
+(A) Paris, France
+(B) Netherlands, in The Hague
+(C) Canada
+(D) London
+
+13) The head office of Indian Library Association (ILA) is
+(A) Delhi
+(B) Kolkata
+(C) Bengalore
+(D) Mumbai
+
+14) The word “Archives” is most relevant to
+(A) Historical material
+(B) National bibliography
+(C) Free of charge
+(D) Family members
+
+15) The word “Referral service” is most relevant to
+(A) Database search service
+(B) Inter Library Loan
+(C) Information scouting
+(D) Retrospective searching
+
+16) Which of the following is a Library Management Software?
+(A) LibSys 7
+(B) EPrints
+(C) Joomla
+(D) Drupal
+
+17) Which of the following is an Open Source Software?
+(A) E-Granthalaya
+(B) SOUL 2.0
+(C) Koha
+(D) LibSys 7
+
+18) Which of the following is a Secondary source of information?
+(A) Journal
+(B) Text book
+(C) Bibliography of Bibliography
+(D) Bibliography
+
+
+19) First generation computer uses
+(A) Microprocessor
+(B) Transistors
+(C) Integrated circuits
+(D) Thermionic valves or vacuum tube or electronic valves
+
+20) Shannon and Weaver related to
+(A) Psycho-biology of language: An introduction to dynamic philosophy
+(B) Information is data of value to decision making
+(C) Mathematical Theory of Information
+(D) Bradfords Law of Information
+
+21) Delivery of Books (Public Libraries Act) enacted in
+(A) 1977
+(B) 1944
+(C) 1967
+(D) 1954
+
+22) Dr. S. R. Ranganathan related to
+(A) The disciple of Melvil Dewey who worked in India
+(B) The first professionally qualified university librarian in India
+(C) He for the first time in India, DDC and AACR rule introduced.
+(D) The first librarian of the Imperial Library (now National Library, Kolkata)
+
+23) First university to introduce MPhil and PhD in LIS in India
+(A) Aligarh Muslim University
+(B) University of Calcutta
+(C) University of Delhi
+(D) University of Madras
+
+24) UGC Curriculum Development Committee formed in
+(A) 1993
+(B) 1991
+(C) 1968
+(D) 1989
+
+25) Second generation computer uses
+(A) Thermionic valves or vacuum tube or electronic valves
+(B) Microprocessor
+(C) Integrated circuits
+(D) Transistors 
+
+25) Second generation computer uses
+(A) Thermionic valves or vacuum tube or electronic valves
+(B) Microprocessor
+(C) Integrated circuits
+(D) Transistors
+
+26) Paul Otlet and Henri La Fontaine related to
+(A) Sears List of Subject Heading
+(B) Library of Congress Classification System
+(C) UDC
+(D) Dictionary Catalogue
+
+27) CCF was developed by
+(A) UNESCO
+(B) IFLA
+(C) FID
+(D) Library of Congress
+
+28) Berne Convention and Universal Copyright Convention was revised in Paris in
+(A) 1949
+(B) 1952
+(C) 1971
+(D) 1931
+29) The UNESCO Public Library Manifesto was revised in
+(A) 1956
+(B) 1931
+(C) 1972
+(D) 1972
+
+30) Which of the following is a social network?
+(A) BUBL Link
+(B) LIS Links
+(C) Intute
+(D) DMOZ
+
+31) Peter A. Phyor related to
+(A) Ranganathan formulated his first law of library from his casual hint.
+(B) Library legislation
+(C) Living with book
+(D) Zero Based Budget
+
+32) Koha was developed at
+(A) Katipo Communications Ltd, New Zealand
+(B) University of Waikato, New Zealand.
+(C) Massachusetts Institute of Technology (MIT) libraries & Hewlett-Packard labs
+(D) Wikimedia Foundation
+
+33) C. W. Hanson
+(A) Categorized information need into current approach, everyday approach, and exhaustive approach.
+(B) Divides documentary sources of information into primary and secondary.
+(C) Divides documentary sources of information into primary, secondary and tertiary.
+(D) Classified documentary sources of information into Conventional, Neo Conventional, Non Conventional and meta document.
+
+34) The First and Oldest University Library was established in British India at
+(A) University of Delhi
+(B) Calcutta University
+(C) Aligarh Muslim University
+(D) University of Madras
+
+35) Deleted email can be found in the
+(A) Trash folder
+(B) Inbox folder
+(C) Starred folder
+(D) Spam folder
+
+36) RDA related to
+(A) Classification
+(B) Cataloguing
+(C) Searching
+(D) Browsing
+
+37) George Kingsely Zipf related to
+(A) Psycho-biology of language: An introduction to dynamic philosophy
+(B) Mathematical Theory of Information
+(C) Information is data of value to decision making
+(D) Bradfords Law of Information
+
+38) WIPO was established by the WIPO Convention in
+(A) 1977
+(B) 1944
+(C) 1954
+(D) 1967
+
+39) Alireza Noruzi related to
+(A) Application of Ranganathan's Laws to the Web
+(B) The disciple of Melvil Dewey who worked in India
+(C) Our Singular Strengths
+(D) The first librarian of the Imperial Library (now National Library, Kolkata)
+
+40) E. B. Ross related to
+(A) Ranganathan formulated his first law of library from his casual hint.
+(B) Library legislation
+(C) Living with book
+(D) Zero Based Budget
+
+41) Denis Grogan
+(A) Categorized information need into current approach, everyday approach, and exhaustive approach.
+(B) Divides documentary sources of information into primary and secondary.
+(C) Divides documentary sources of information into primary, secondary and tertiary.
+(D) Classified documentary sources of information into Conventional, Neo Conventional, Non Conventional and meta document.
+
+42) The Head Office of IASLIC located at
+(A) Kolkata
+(B) Delhi
+(C) Mumbai
+(D) Chennai
+
+43) Reference and information service is most relevant to
+(A) Referral Service
+(B) SDI
+(C) CAS
+(D) Retrospective searching
+
+44) Which of the following is an Institutional Repository Software Package?
+(A) Joomla
+(B) EPrints
+(C) Koha
+(D) Drupal
+
+45) Which of the following is a Tertiary Sources of Information?
+(A) Journal
+(B) Bibliography
+(C) Encyclopaedia
+(D) Bibliography of Bibliographies
+
+
+46) First library act was enacted in Great Britain in
+(A) 1847
+(B) 1850
+(C) 1867
+(D) 1840
+
+47) Michael Gorman related to
+(A) Application of Ranganathan's Laws to the Web
+(B) The disciple of Melvil Dewey who worked in India
+(C) Our Singular Strengths
+(D) The first librarian of the Imperial Library (now National Library, Kolkata)
+
+48) Dr. Nihar Ranjan Roy related to
+(A) Application of Ranganathan's Laws to the Web
+(B) The first professionally qualified university librarian in India
+(C) He for the first time in India, DDC and AACR rule introduced.
+(D) The first librarian of the Imperial Library (now National Library, Kolkata)
+
+49) The Head Office of UNESCO located at
+(A) Paris, France
+(B) Netherlands, in The Hague
+(C) London
+(D) England
+
+50) M. C. Yovits related to
+(A) Psycho-biology of language: An introduction to dynamic philosophy
+(B) Information is data of value to decision making
+(C) Mathematical Theory of Information
+(D) Bradfords Law of Information
+
+
+
+
+
+UGC-NET Objective Question, Practice Set C
+
+1. ________ is one of the records of circulation section.
+(A) Accession Register
+(B) Day book
+(C) Catalogue Card
+(D) AACR-2 (R)
+ANSWER: (A)
+
+2. Getting books back from the users and releasing the borrower’s ticket is known as
+(A) charging
+(B) holding
+(C) reserving
+(D) discharging
+ANSWER: (D)
+
+3.While entering the library, the personal belongings of a reader is kept in ________
+(A) Cloak room
+(B) Property counter
+(C) Gate counter
+(D) Store room
+ANSWER: (B)
+
+4. Identify the odd one from the following: 
+(A) Koha 
+(B) VTLS 
+(C) SLIM++ 
+(D) SOUL 
+Answer: (A) 
+
+5. Following is not a Web 2.0 tool: 
+(A) Blog 
+(B) Facebook 
+(C) UGC-INFONET 2.0 
+(D) RSS feeds 
+Answer: (C) 
+
+6. PDA stands for: 
+(A) Personal Digital Assistance 
+(B) Personal Document Archive 
+(c) Personal Digital Archive 
+(D) Program Download Accessories 
+Answer: (A) 
+
+7. PLONE is a: 
+(A) Content Mnagement System 
+(B) Digital Library Software 
+(C) ILMS 
+(D) Federated Search Engine 
+Answer: (A) 
+ 
+8. Pi is the e-book reading device by: 
+(A) Amazon 
+(B) Sony 
+(C) Infibeam 
+(D) Nokia 
+Answer: (C) 
+
+9. Following is an example of microblogging: 
+(A) Wordpress 
+(B) Blogspot 
+(C) Livejournal 
+(D) Twitter 
+Answer: (D) 
+
+10. Study carrels are exclusive areas meant for……………
+(A) Students 
+(B) public
+(C) women 
+(D) Researchers
+ANSWER: (D)
+
+11. Library catalogue cards are filed in specially designe(D) drawers called ________
+(A) Charging tray
+(B) Catalogue cabinet
+(C) Display rack .
+(D) Filling equipment
+ANSWER: (B)
+
+12. INFLIBNET headquarters is located at 
+(A) Ahmedabad
+(B) New Delhi
+(C) Bangalore 
+(D) Chennai
+Answer: (A) (Ahmedabad, Gujarat)
+ 
+13. Resource sharing is a part of … 
+(A) Library cooperation 
+(B) Library administration 
+(C) Library management 
+(D) Library cataloguing 
+Answer: (A)
+
+14. What is the full form of ERNET? 
+(A) Engineering Network 
+(B) Eastern Regional Network 
+(C) Electronic Research Network 
+(D) Education and Research Network 
+Answer: (D)
+ 
+15. Information Gatekeepers come under ________ sources.
+(A) documentary 
+(B) human
+(C) institutional 
+(D) neo-conventional
+ANSWER: (A)
+
+16…………… categorises documents into three types such as primary, secondary and tertiary.
+(A) Grogan
+(B) Skeltor
+(C) S. R. Ranganathan
+(D) Hanson
+ANSWER: (A)
+
+17. ________ is a legal document and can be used as a source of industrial information.
+(A) Report
+(B) Law Review
+(C) Patent
+(D) Specification
+ANSWER: (D)
+
+18. In Encyclopaedia Britianica, ___________ acts as an index to macropaedi(A)
+(A) Bibliography
+(B) Introduction Part
+(C) Propaedia
+(D) Micropaedia
+ANSWER: (D)
+
+19. One of the book selection principles states that “the best reading for the largest number at the ……………Cost.”
+(A) maximum
+(B) medium
+(C) least
+(D) Zero
+ANSWER: (C)
+
+20. Payments for the books purchased can be made only after
+(A) accessioning
+(B) classification
+(C) Cataloguing
+(D) arrangement in the shelve
+ANSWER: (A)
+
+
+21. The standard size of an accession register is ?
+(A) 15” x 13”
+(B) 16 x 13”
+(C) 12” x 5”
+(D) 5” x 3”
+ANSWER: (B)
+
+22. ISBN stands for ________
+(A) Integrated Services Bibliographic Network
+(B) Indian Standard Book Number
+(C) International Standard Book Number
+(D) International Standard for Book and Non- book
+ANSWER: (C)
+
+23. The three card system introduced by Ranganathan are (i) Register Card (ii) Check Card(iii)……..
+(A) KARDEX
+(B) LINDEX
+(C) Ledger Card
+(D) Classified Index Card
+ANSWER: (D)
+
+29. Physical condition of the books should be property maintaine(D) This is known as
+(A) collation.
+(B) conservation
+(C) shelf-arrangement
+(D) organization
+ANSWER: (B)
+
+30.________ is an important record of books, which shows the position of any book on the shelves.
+(A) Bay Guide
+(B) Authority File
+(C) Accession List.
+(D) Shelf. .List
+ANSWER: (D)
+
+31.Books misplaced on the shelves by readers are restore(D) This work is referred to as
+(A) Shelving
+(B) Stock verification
+(C) Shelf rectification
+(D) Shifting
+ANSWER: (C)
+
+32. Books lost from the library are known through ________
+(A) Stock verification
+(B) Charging and discharging
+(C) Shelf list
+(D) Accession Register
+ANSWER: (B)
+
+33. Outdated and seldom used books are withdrawn from the library is otherwise
+known as – .
+(A) Shelving
+(B) Weeding
+(C) Circulating
+(D) Guiding
+ANSWER: (B)
+
+34. The objective of library binding is ________
+of the library materials.
+(A) Proper organisation
+(B) accessibility.
+(C) durability
+(D) humidity control
+ANSWER: (C)
+
+
+35.All part and pages of a volume are correctly sequenced in the first stage of binding
+process known as?
+(A) sewing
+(B) guard
+(C) pulling
+(D) collation
+ANSWER: (D)
+
+36. ________ are the storage areas for the various types of documents kept in a library.
+(A) Tasks .
+(B) Racks
+(C) Stacks
+(D) Desks
+ANSWER: (C)
+
+37. Technical section performs mainly two functions namely classification and……….
+(A) accessioning
+(B) bills payment
+(C) cataloguing
+(D) shelving
+ANSWER: (C)
+
+38. PRECIS was developed by Derek Austin for use in the ________
+(A) BNB
+(B) INB
+(C) ISBD
+(D) ISBN
+ANSWER: (A)
+
+39. Sheets before and after the text of a book are called _________. .
+(A) End papers
+(B) Attach cover
+(C) Head bands
+(D) Gilding
+ANSWER: (A)
+
+
+40.Leather being used as one of the binding materials i.e., _________ is the strongest
+leather.
+(A) Roan
+(B) Imitation
+(C) Pig skin
+(D) Sheep skin
+ANSWER: (D)
+
+41. ________ has prescribed certain standards for library binding.
+(A) ILA
+(B) ALA .
+(C) BLA
+(D) NBT
+ANSWER: (B)
+
+42. ________ is a process of helping employees in an organization to acquire new skills
+and competence on a continuing basis
+(A) Total Quality Management
+(B) Management Information System
+(C) Financial Resources Development
+(D) Human Resources Development.
+ANSWER: (A)
+
+43. A skillful method of providing means, mechanism and structural elements to.
+streamline organizational work is known as _______
+(A) Strategic planning
+(B) Role analysis
+(C) Work culture
+(D) Autonomous planning
+ANSWER: (A)
+
+44.On which of the following technologies semantic web is not based? 
+(A) RDF 
+(B) Ontologies 
+(C) Cloud seeding 
+(D) URI 
+Answer: (C)
+
+
+
+45.World Wide Web (WWW) was first designed by whom? 
+(A) Charles Babbage (B) F. W. Lancaster
+(C) Ted Nelson
+(D) Tim Berner's Lee
+Answer: (D) 
+
+
+46. Which generation computers uses integrated circuits(ICs)? 
+(A) First 
+(B) Second 
+(C) Third 
+(D) Fourth 
+Answer: (C) 
+ 
+47. The CD alphabets in CDS/ISIS stands for 
+(A) Computerized Documentation 
+(B) Condensed Disk 
+(C) Confirmed Disc 
+(D) Compact Disc 
+Answer: A 
+ 
+48. LYCOS is a 
+(A) search engine 
+(B) programming language 
+(C) database 
+(D) database vendor 
+Answer: A 
+ 
+49. Electronic telecommunications system joining millions of computers together. 
+(A) E-mail 
+(B) Internet 
+(C) US Mail 
+(D) UPS 
+Answer: B 
+
+
+50. Following is not a social bookmarking site: 
+(A) Digg 
+(B) Delicious 
+(C) Sqidoo 
+(D) Facebook 
+Answer: (C) 
+
+
+
+
+
+
+51. Following is not a network protocol: 
+(A) HTTP 
+(B) SMTP 
+(C) TCP/IP 
+(D) Z39.50 
+Answer: (D) 
+ 
+52. LOCKOSS (Software) is an international community initiative by: 
+(A) MIT Libraries 
+(B) Stanford University 
+(C) University of Waikato 
+(D) University of Southampton 
+Answer: (B) 
+
+
+53. Who invented OSI Model in 1982
+(A) BSO
+(B) ISI
+(C) Indian standerd orgganisation
+(D) International standard organisation
+Answer: (D)
+
+54. Where ISDN was first started in 1990
+(A) USA
+(B) UK
+(C) India
+(D) Singapore
+Answer: (D)
+
+55. Now-a-days how many tipes of Protocol are used ?
+(A) 5
+(B) 4
+(C) 3
+(D) 2
+Answer: (D)
+
+56. Which type of protocol is used by interface for public data network(PDN) ?
+(A) X.25
+(B) X.12
+(C) X.13
+(D) X.20
+Answer: (A)
+
+57. CCF stands for 
+(A) Common Communication Format 
+(B) Centre for Communication Format 
+(C) Committee for Communication Format 
+(D) Common Curriculum Format 
+Answer: (A) 
+
+
+58. In Which five year plan the INFLIBNET was established 
+(A) Fourth five year plan 
+(B) Fifth five year plan 
+(C) sixth five year plan 
+(D) seventh five year plan 
+Answer: (D)
+ 
+59. Which network in India provided the first e-mail service in the country? 
+(A) NICNET 
+(B) DELNET 
+(C) ERNET 
+(D) INFLIBNET 
+Answer: (C)
+
+
+60. Who publishes Annals of Library Science and documentation? 
+(A) ILA 
+(B) INSDOC 
+(C) DRTC 
+(D) IASLIC 
+Answer: (B) 
+
+61. What is full text e-Resource ?
+(A) JCCC
+(B) ISID
+(C) Science finder scholar
+(D) ACS
+Answer: (D) (American chemical society)
+
+62. Which one is E-Bibliographic database? 
+(A) Nature
+(B) Blackwell
+(C) ISID
+(D) Springer
+Answer: (C)
+
+63. Virtua accommodates which version of the MARC Standard?
+(A) USMARC
+(B) UKMARC
+(C) CANMARC
+(D) SWEMARC/All of above
+Answer: (D) 
+
+64.  Which one is a journal of Library and Information Science?
+(A) Abacus
+(B) Acta numerica
+(C) Interlending and Document supply
+(D) 4OR
+Answer: (C)
+
+65. The Electronic Library is......................
+(A) A Magazine
+(B) A Journal Name
+(C) A LIbrary
+(D) An Encyclopeadia
+Answer: (B)
+
+66. Where is the headquarter of RRRLF? 
+(A) Banglore 
+(B) Delhi 
+(C) Calcutta 
+(D) Lucknow 
+Answer: (C) 
+ 
+
+67. Who provides the ISBN?
+(A) Niscair 
+(B) Nissat 
+(C) Insdoc 
+(D) RRRLF 
+Answer: (D) 
+ 
+68. RRRLF provides the? 
+(A) ISSN 
+(B) ISBN 
+(C) CCF 
+(D) MARC
+Answer: (B)  
+
+69. ”It is a library with little or no physical presence of books, periodicals, reading space or support staff, but are that disseminate selective information directly to distribute library customers, usually electronically”. Said by whom? 
+(A) Kay Gapen 
+(B) Powell 
+(C) Sherwell 
+(D) H. G. Wells 
+Answer: (B) 
+
+70. ”A library is a public institution or establishment charged with the care of collection of books, the duty of making them accessible to those who require the use of them and the task of converting every person in its neighborhood into a habitual library goers and reader of books.”Quoted by whom? 
+(A) Dr S R Ranganathan 
+(B) K.N.Raj 
+(C) C.A.Cutter 
+(D) W.C.Sayers 
+Answer: (A) 
+ 
+71. Classification of all types of libraries has been made by- 
+(A) IFLA 
+(B) UNISIST 
+(C) UNESCO 
+(D) INSDOC 
+Answer: (C) 
+
+72. ”Special libraries serve a specialist clientele, located within a single establishment or group and all engaged in working towards one common purpose.” Who said this
+(A) R.Astall 
+(B) UNESCO 
+(C) J.D.Brown 
+(D) E.C.Richardson 
+Answer: (A) 
+
+73. Reading centre’s, story hours, exhibitions and reading to literature are forms of … 
+(A) Extension service 
+(B) Service of a public library 
+(C) Both 
+(D) None 
+Answer: (C)
+
+74. Which library first introduced the printed catalog 
+(A) British Museum 
+(B) Library of Congress 
+(C) Lelin State 
+(D) Imperial Library 
+Answer: (A)
+
+75. Informal self education is possible in what kind of library? 
+(A) National Library 
+(B) Public Library 
+(C) Specific Library 
+(D) College Library
+Answer: (B)
+
+76. API stands for
+(A) Application Programming Interface
+(B) American Public Initiative 
+(C) All Programing Interface 
+(D) American Program for Information
+Answer -(A)
+
+
+
+
+
+
+
+
+UGC-NET Objective Question, Practice Set: D-1 (1-50)
+
+1. MESH is a
+(A) Thesaurus
+(B) Dictionary
+(C) Journal
+(D) Library
+Answer: (A)
+
+2. The First edition of DDC Consisted of
+(A) 144 pages
+(B) Four volume
+(C) 44 pages
+(D) 124 pages
+Answer: (C) (1876)
+
+3. What are the four entity of FRBR model?
+(A) Personality, Matter, Energy, Space
+(B) Work, Expression, Manifestation, Item
+(C) Book, Form, Availability, Type
+(D) Discipline, Entity, Action, Personality
+Answer: (B)
+
+4. The Dewey Decimal Classification divides human knowledge into
+(A) 10 basic categories.
+(B) 100 basic categories.
+(C) 1000 basic categories.
+(D) 10000 basic categories.
+Answer: (A)
+
+5. Accession Number means
+(A) Call Number of a book
+(B) Unique Number for a book inside a particular library.
+(C) Book Number
+(D) Class number
+Answer: (B)
+
+6. Who is the Editor in Chief of 19th Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (A)
+
+7. Who is the Editor in Chief of 20th Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (B)
+
+8. Who is the Editor in Chief of 21st Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (C)
+
+9. Who is the Editor in Chief of 22nd Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (D)
+
+10.  "To provide the best books to the maximum readers at the least cost" said by
+(A) Dr. S. R. Ranganathan
+(B) P. N. Kaula
+(C) E.Mayo
+(D) Melvil Dewey
+Answer: (D)
+
+11. Theory X and Theory Y is developed by
+(A) Louis Brandeis
+(B) Douglas Mc Gregor
+(C) Abraham Maslo
+(D) Mayo
+Answer: (B)
+
+12. ISBN consists of how many digit
+(A) 10
+(B) 9
+(C) 15
+(D) 13
+Answer: (D)
+
+13. Herzberg’s theory deals with
+(A) Staffing
+(B) Directing
+(C) Motivation
+(D) Planning
+Answer: (C)
+
+14. Who is considered as the father of Scientific Management
+(A) F.W. Taylor
+(B) Harold Koontz
+(C) Peter F. Drucker
+(D) Luther Gulick
+Answer: (A)
+
+15. CPM (Critical Path Method) is developed by
+(A) Dupoint Company
+(B) Aircraft Corporation
+(C) IIM
+(D) IBM
+Answer: (A)
+
+16. How many digits have in the ISSN
+(A) 10
+(B) 8
+(C) 13
+(D) 15
+Answer: (B)
+
+17. Main use of Shelf list is
+(A) Cataloging
+(B) Circulation
+(C) Stock Verification
+(D) Book Selection
+Answer: (C)
+
+18.  Theory X and Theory Y related to
+(A) Planning
+(B) Motivation
+(C) Directing
+(D) Staffing
+Answer: (B)
+
+19.  Which national agency in India is responsible for assigning the ISBN
+(A) RRRLF
+(B) BARC
+(C) NCL
+(D) National Library of India
+Answer: (A)
+
+20. TQM is a system of continuous improvement employing participative management and centered on needs of the ________
+(A) Customers
+(B) Staff
+(C) Organization
+(D) Government
+Answer: (C)
+
+21. Financial support given to libraries are of two types - Recurring and
+(A) Ad-hoc
+(B) Endowments
+(C) Annual
+(D) Non-recurring
+Answer: (B)
+
+22. Principle of maximum aggregate benefit is concerned with__
+(A) Growth of library
+(B) Library use
+(C) Library service
+(D) Library fee
+Answer: (C)
+
+23.  …….. takes items of expenditure for libraries as the working data for allocation of funds.
+(A) Method of details
+(B) Per capita method
+(C) Principle of economy
+(D) Library budget
+Answer: (D)
+
+24. A budget which mainly covers items of current revenue and expenditure is called __.
+(A) Programme budget
+(B) Welfare economics
+(C) Current budgeting
+(D) Capital budgeting
+Answer: (D)
+
+25. The library budget of a university is passed by the ?
+(A) Senate
+(B) Executive Council
+(C) Academic Council
+(D) Research Council
+Answer: (B)
+
+26. In fund accounting, _______ fund can not be used for other purposes.
+(A) Recurring
+(B) Non-recurring
+(C) Restricted
+(D) Encumbering
+Answer: (A)
+
+27. Scrutiny of financial transactions is called
+(A) Budgeting
+(B) Programming
+(C) Accounting
+(D) Auditing
+Answer: (D)
+
+28. What are the two parts of the annual report of the library
+(A) Primary and Secondary
+(B) Analytical and Systematic
+(C) Upper and Lower
+(D) Descriptive and Statistical
+Answer: (D)
+
+29. Who is the pioneer of open access system in British libraries
+(A) Nine e.Brown
+(B) James Duff Brown
+(C) John cotton dana
+(D) S. R. Ranganathan
+Answer: (B)
+
+30. When was Browne charging system started?
+(A) 1895
+(B) 1896
+(C) 1899
+(D) 1875
+Answer: (A)
+
+31. Who started New york Charging system?
+(A) Peter Drucker
+(B) Elton Mayo
+(C) John Cotton Dana
+(D) Francis Bacon
+Answer: (C)
+
+32. When did electrically operated book charging system introduced first?
+(A) 1926
+(B) 1905
+(C) 1933
+(D) 1932
+Answer: (D)
+
+33. How many columns are there in the accession register?
+(A) 10
+(B) 12
+(C) 14
+(D) 16
+Answer: (C)
+
+34. When was PERT developed?
+(A) 1958
+(B) 1968
+(C) 1955
+(D) 1948
+Answer: (A)
+
+35. Who had invented the MBO?
+(A) Eltomn Mayo
+(B) Frederic Winslow Taylor
+(C) Peter Drucker
+(D) Kermeth Blanchard
+Answer: (C) (1954)
+
+36. PPBS relates to
+(A) Book selection
+(B) Journal selection
+(C) Budgeting
+(D) Library records
+Answer: (C)
+
+37. The standard “X” and theory “Y” was conceived by
+(A) Peter F.Drucker
+(B) Doughlas Mc Gregor
+(C) Gulik and URwick
+(D) Taylor
+Answer: (B)
+
+38. Zero based budget is concerned with
+(A) Present
+(B) Past
+(C) Future
+(D) Remote future
+Answer: (C)
+
+39. Who is the father of Classical School
+(A) Lyndall Urwick
+(B) Gulick
+(C) Cutter
+(D) Henri Fayol
+Answer: (D)
+
+40. Who coined the word POSDCORB
+(A) Henri Foyal
+(B) Luther Gulick
+(C) Herbert
+(D) Elizabeth stone
+Answer: (B)
+
+41. Another term of PERT is
+(A) CPM
+(B) POSDCORB
+(C) MBO
+(D) HRM
+Answer: (A)
+
+42. POSDCORB is related to
+(A) Library cataloguing
+(B) Library reference service
+(C) Library administration
+(D) Library automation
+Answer: (C)
+
+43. Who introduced Three card system
+(A) Krishan Kumar
+(B) C. K. Sharma
+(C) C.A. Cutter
+(D) S. R. Ranganathan
+Answer: (D)
+
+44. What are the standard size of the Accession Register is
+(A) 16” * 12”
+(B) 16” * 13”
+(C) 16” * 11”
+(D) 16” * 18”
+Answer: (B)
+
+45. A good library building is an outcome of librarian and _________.
+(A) Registrar
+(B) Building Corporation
+(C) Finance Officer
+(D) Architect
+Answer: (D)
+
+46.  ________ are the storage areas for the various types of documents kept in a library.
+A. Tasks .
+B. Racks
+C.Stacks
+D. Desks
+Answer: (C)
+47. Study carrels are exclusive areas meant for……………
+A. students
+B. public
+C. women
+D. researchers
+Answer: (D)
+48. Library catalogue cards are filed in specially designed. drawers called ________
+A. Charging tray
+B. Catalogue cabinet
+C. Display rack .
+D. Filling equipment
+Answer: (B)
+49. Information Gatekeepers come under ________ sources.
+A documentary
+B. human
+C. institutional
+D. neo-conventional
+Answer: (A)
+50. Who categorises documents into three types such as primary, secondary and tertiary.
+A. Grogan
+B. Skeltor
+C. SR. Ranganathan
+D. Hanson
+Answer: (A)
+
+
+
+
+
+
+
+
+
+Tuesday, June 19, 2012
+UGC-NET Objective Question, Practice Set - E-1(1-50)
+
+1. UNISIST is a 
+(A) Software 
+(B) A Programme 
+(C) Welfare association 
+(D) A committee 
+Answer: (B)
+
+2. Where did Dr. S. R. Ranganathan put forth his five laws of library science? 
+(A) Meenakshi college, Annamalainagar 
+(B) Hindu College, New Delhi 
+(C) City College, Bangalore 
+(D) Christ College, Bangalore 
+Answer: (A) 
+
+3. When did ILA became the member of IFLA? 
+(A) 1952 
+(B) 1955 
+(C) 1957 
+(D) 1965 
+Answer: (C) 
+ 
+4. In which year Aslib was acquired by MCB group, the holding company for emerald group publishing? 
+(A) 2003 
+(B) 2005 
+(C) 2009 
+(D) 2010 
+Answer: (D) 
+
+5. Which association`s tagline is “managing information”? 
+(A) IFLA 
+(B) Aslib 
+(C) ALA 
+(D) LC 
+Answer: (B) 
+
+6. Which association`s tagline is “connecting people and information”? 
+(A) SLA 
+(B) IFLA 
+(C) ALA 
+(D) COMLA 
+Answer: (A) 
+
+7. When was the International institute of Documentation established? 
+(A) 1931 
+(B) 1934 
+(C) 1940 
+(D) 1945 
+Answer: (A) 
+
+8. Which organization has introduced the concept of “Sister libraries” for children`s and young adults reading? 
+(A) UNESCO 
+(B) IFLA 
+(C) LC 
+(D) LA 
+Answer: (B) 
+
+9. In which year the ISBN allocation office in India shifted from Kolkatta to Delhi? 
+(A) 2009 
+(B) 2010 
+(C) 2011 
+(D) 2012 
+Answer: (C) 
+
+10. Which two organizations jointly publish survey on digitization and preservation? 
+(A) IFLA + UNESCO 
+(B) ALA + UNESCO 
+(C) IFLA + ALA 
+(D) IFLA + LC 
+Answer: (A) 
+
+11. Who said that “Librarianship is not a profession”? 
+(A) Madden, Moon, Moore, Mc Pheron 
+(B) Goode, Rossi, Shaffer, Gullis 
+(C) Dewey, Rundey, Reeves, Aishen 
+(D) Ranganathan, Dewey, Cutter 
+Answer: (A) 
+
+12. Which organization was joined with Library Association to form CILIP in 2002? 
+(A) Institute of Bibliography 
+(B) Institute of Information Scientists 
+(C) Institute of Documentation 
+(D) Institute of Librarianship 
+Answer: (B) 
+
+13.In which year International institute of Documentation changed to International federation of Documentation? 
+(A) 1931 
+(B) 1937 
+(C) 1945 
+(D) 1948 
+Answer: (B) 
+
+14.In which year headquarter of FID was shifted from Brussels to The Hague? 
+(A) 1925 
+(B) 1928 
+(C) 1930 
+(D) 1934 
+Answer: (D) 
+
+15. When was the curriculam development committee on LIS instituted? 
+(A) 1988-89 
+(B) 1990-93 
+(C) 1994-97 
+(D) 1999-02 
+Answer: (B) 
+
+16. Who published the journal International classification? 
+(A) IFLA 
+(B) UNESCO 
+(C) ISKO 
+(D) ALA 
+Answer: (C) 
+
+17. Which association in India awards teachers in LIS? 
+(A) IATLIS 
+(B) ILA 
+(C) IASLIC 
+(D) SIS 
+Answer: (A) 
+
+18. Where is the headquarter of SLA? 
+(A) New York 
+(B) Lagos 
+(C) Shimla 
+(D) New Delhi 
+Answer: (A) 
+
+19.Which law of library Science relates to the growth of libraries 
+(A) Forth law 
+(B) First law 
+(C) Second law 
+(D) Fifth law 
+Answer: (D)
+
+20. UAP stands for what of the following 
+(A) United Academy of publication 
+(B) Universal Association of Publishers 
+(C) Universal Availability of Publications. 
+(D) Universal Association of Publishers 
+Answer: (C)
+
+21. Resource sharing is a part of 
+(A) Library cooperation
+(B)Library Administration 
+(C)Library Management
+(D)Library Cataloging
+Answer: (A)
+
+22. When was the Amercian Library Assoication established
+(A) 1876
+(B) 1872
+(C) 1875
+(D) 1880
+Answer: (A)
+
+23. Which term was coined by Dr.S.R.Ranganathan for mobile libraries
+(A) Moving Library
+(B) Library on Wheels
+(C) Library Machine
+(D) All of above
+Answer:(B) 
+
+24. The Librarian Day celebrated on 
+(A) 15th Sep
+(B) 24th Nov
+(C) 11th Dec
+(D) 12th Aug
+Answer: (D)
+
+25. Forms of Extension service
+(A) Library Websites
+(B) Library Orientation
+(C) Book fair and Exhibition
+(D) All
+Answer: (D)
+
+26. The first library school was started by
+(A) Melvin Dewey
+(B) Charles Williamson
+(C) John Macfarlane
+(D) William Allenson Borden
+Answer:(A)
+
+27. Encyclopedia of library and Information Science is published by :
+(A) H. W. Wilson 
+(B) R. R. Bowker 
+(C) Marcel Dekker 
+(D) Andrew Deutsch 
+Answer: (C) Marcel Dekker
+
+28. The secondary source of information comprised of: 
+(A) Text books and research monographs. 
+(B) Subject periodicals and encycyclopaedias 
+(C) Indexing and Abstracting periodicals 
+(D) Bibliography and patents 
+Answer:(C) Indexing and Abstracting periodicals 
+
+29. Who categorized information source into conventional, non conventional, neo conventional and micro documents : 
+(A) Ranganthan 
+(B) Bradford 
+(C) Grogan 
+(D) Henson 
+Answer: (A) Ranganthan 
+   
+30. Article published in research journal are… 
+(A) Reference sources 
+(B) Secondary sources 
+(C) Primary sources 
+(D) Tertiary sources 
+Answer: (C)
+
+31. What is the Thesaurus? 
+(A) A collection of selected terminology 
+(B) Synonymous terms 
+(C) List of words 
+(D) All of the above 
+Answer: (D)
+
+32. What is a Patent 
+(A) An agreement to the Government 
+(B) Document of the library 
+(C) An agreement between the inventor and the Government 
+(D) An agreement between library and Publisher 
+Answer: (C)
+
+33. World of learning is a what source of information 
+(A) Primary source 
+(B) Documentary source 
+(C) Secondary source 
+(D) Tertiary source 
+Answer: (C)
+
+34. Indian books in Print are published from 
+(A) Tamil nadu 
+(B) Chennai 
+(C) Bombay 
+(D) New Delhi 
+Answer: (D)
+
+36. What is e-prints ?
+(A) A catalogue
+(B)  A journal
+(C) A repository Software
+(D) An encyclopeadia
+Answer: (C)
+
+37. What  two is a Library Management  Software for small libraries?
+(A) Library Solution and Follet
+(B) Follet and MSN
+(C) MSN and Tar
+(D) LYCOS and Live  Search
+Answer: (A)
+
+38. What is APS ? 
+(A) A Search Engine?
+(B) A Full-text e-resourse
+(C) Bibliographic database
+(D) Library Management Software
+Answer: (B)
+
+39. Which one is Library and Information Science Journal name?
+(A) Reference Reviews incorporating ASLIB Book Guide
+(B) Reference Reviews incorporating ASLIB Book journals
+(C) Reference Reviews incorporating ASLIB Book Review
+(D) Reference Reviews incorporating ASLIB E-Book
+Answer: (A)
+
+40. "Shodhganga" is a national level repository of: 
+(A) E-Books 
+(B) E-Journals 
+(C) E-Theses 
+(D) Journal Articles 
+Answer: (C) 
+
+41. Questionnaire is a :
+(A) Research method
+(B) Measurement Technique 
+(C) Tool for data collection 
+(D) All the above
+Answer: (C)
+
+42. Mean, Median and Mode are :
+(A) Measures of deviation 
+(B) Sampling Techniques 
+(C) Measures of control tendency 
+(D) None of the above
+Answer: (D)
+43.  ‘Cranfield Studies’ are an example of :
+(A) Survey Research 
+(B) Experimental Research 
+(C) Historical Research 
+(D) Case Study
+Answer: (B)
+
+44. Research is
+(A) Searching again and again
+(B) Finding solution to any problem
+(C) Working in a scientific way to search for truth of any problem
+(D) None of the above
+Answer: (C)
+
+45. Which of the following is the first step in starting the research process?
+(A) Searching sources of information to locate problem.
+(B) Survey of related literature
+(C) Identification of problem
+(D) Searching for solutions to the problem
+Answer: (C)
+
+46. A common test in research demands much priority on
+(A) Reliability
+(B) Useability
+(C) Objectivity
+(D) All of the above
+Answer: (D)
+
+47. Action research means
+(A) A longitudinal research
+(B) An applied research
+(C) A research initiated to solve an immediate problem
+(D) A research with socioeconomic objective
+Answer: (C)
+
+48. A reasoning where we start with certain particular statements and conclude with a universal statement is called
+(A) Deductive Reasoning
+(B) Inductive Reasoning
+(C) Abnormal Reasoning
+(D) Transcendental Reasoning
+Answer: (B)
+
+49. Research is conducted to
+I. Generate new knowledge
+II. Not to develop a theory
+III. Obtain research degree
+IV. Reinterpret existing knowledge
+Which of the above are correct?
+(A) I, III & II 
+(B) III, II & IV
+(C) II, I & III 
+(D) I, III & IV
+Answer: (D)
+
+
+
+
+
+
+
+Tuesday, June 19, 2012
+UGC-NET Objective Question, Practice Set - E-1(1-50)
+
+1. UNISIST is a 
+(A) Software 
+(B) A Programme 
+(C) Welfare association 
+(D) A committee 
+Answer: (B)
+
+2. Where did Dr. S. R. Ranganathan put forth his five laws of library science? 
+(A) Meenakshi college, Annamalainagar 
+(B) Hindu College, New Delhi 
+(C) City College, Bangalore 
+(D) Christ College, Bangalore 
+Answer: (A) 
+
+3. When did ILA became the member of IFLA? 
+(A) 1952 
+(B) 1955 
+(C) 1957 
+(D) 1965 
+Answer: (C) 
+ 
+4. In which year Aslib was acquired by MCB group, the holding company for emerald group publishing? 
+(A) 2003 
+(B) 2005 
+(C) 2009 
+(D) 2010 
+Answer: (D) 
+
+5. Which association`s tagline is “managing information”? 
+(A) IFLA 
+(B) Aslib 
+(C) ALA 
+(D) LC 
+Answer: (B) 
+
+6. Which association`s tagline is “connecting people and information”? 
+(A) SLA 
+(B) IFLA 
+(C) ALA 
+(D) COMLA 
+Answer: (A) 
+
+7. When was the International institute of Documentation established? 
+(A) 1931 
+(B) 1934 
+(C) 1940 
+(D) 1945 
+Answer: (A) 
+
+8. Which organization has introduced the concept of “Sister libraries” for children`s and young adults reading? 
+(A) UNESCO 
+(B) IFLA 
+(C) LC 
+(D) LA 
+Answer: (B) 
+
+9. In which year the ISBN allocation office in India shifted from Kolkatta to Delhi? 
+(A) 2009 
+(B) 2010 
+(C) 2011 
+(D) 2012 
+Answer: (C) 
+
+10. Which two organizations jointly publish survey on digitization and preservation? 
+(A) IFLA + UNESCO 
+(B) ALA + UNESCO 
+(C) IFLA + ALA 
+(D) IFLA + LC 
+Answer: (A) 
+
+11. Who said that “Librarianship is not a profession”? 
+(A) Madden, Moon, Moore, Mc Pheron 
+(B) Goode, Rossi, Shaffer, Gullis 
+(C) Dewey, Rundey, Reeves, Aishen 
+(D) Ranganathan, Dewey, Cutter 
+Answer: (A) 
+
+12. Which organization was joined with Library Association to form CILIP in 2002? 
+(A) Institute of Bibliography 
+(B) Institute of Information Scientists 
+(C) Institute of Documentation 
+(D) Institute of Librarianship 
+Answer: (B) 
+
+13.In which year International institute of Documentation changed to International federation of Documentation? 
+(A) 1931 
+(B) 1937 
+(C) 1945 
+(D) 1948 
+Answer: (B) 
+
+14.In which year headquarter of FID was shifted from Brussels to The Hague? 
+(A) 1925 
+(B) 1928 
+(C) 1930 
+(D) 1934 
+Answer: (D) 
+
+15. When was the curriculam development committee on LIS instituted? 
+(A) 1988-89 
+(B) 1990-93 
+(C) 1994-97 
+(D) 1999-02 
+Answer: (B) 
+
+16. Who published the journal International classification? 
+(A) IFLA 
+(B) UNESCO 
+(C) ISKO 
+(D) ALA 
+Answer: (C) 
+
+17. Which association in India awards teachers in LIS? 
+(A) IATLIS 
+(B) ILA 
+(C) IASLIC 
+(D) SIS 
+Answer: (A) 
+
+18. Where is the headquarter of SLA? 
+(A) New York 
+(B) Lagos 
+(C) Shimla 
+(D) New Delhi 
+Answer: (A) 
+
+19.Which law of library Science relates to the growth of libraries 
+(A) Forth law 
+(B) First law 
+(C) Second law 
+(D) Fifth law 
+Answer: (D)
+
+20. UAP stands for what of the following 
+(A) United Academy of publication 
+(B) Universal Association of Publishers 
+(C) Universal Availability of Publications. 
+(D) Universal Association of Publishers 
+Answer: (C)
+
+21. Resource sharing is a part of 
+(A) Library cooperation
+(B)Library Administration 
+(C)Library Management
+(D)Library Cataloging
+Answer: (A)
+
+22. When was the Amercian Library Assoication established
+(A) 1876
+(B) 1872
+(C) 1875
+(D) 1880
+Answer: (A)
+
+23. Which term was coined by Dr.S.R.Ranganathan for mobile libraries
+(A) Moving Library
+(B) Library on Wheels
+(C) Library Machine
+(D) All of above
+Answer:(B) 
+
+24. The Librarian Day celebrated on 
+(A) 15th Sep
+(B) 24th Nov
+(C) 11th Dec
+(D) 12th Aug
+Answer: (D)
+
+25. Forms of Extension service
+(A) Library Websites
+(B) Library Orientation
+(C) Book fair and Exhibition
+(D) All
+Answer: (D)
+
+26. The first library school was started by
+(A) Melvin Dewey
+(B) Charles Williamson
+(C) John Macfarlane
+(D) William Allenson Borden
+Answer:(A)
+
+27. Encyclopedia of library and Information Science is published by :
+(A) H. W. Wilson 
+(B) R. R. Bowker 
+(C) Marcel Dekker 
+(D) Andrew Deutsch 
+Answer: (C) Marcel Dekker
+
+28. The secondary source of information comprised of: 
+(A) Text books and research monographs. 
+(B) Subject periodicals and encycyclopaedias 
+(C) Indexing and Abstracting periodicals 
+(D) Bibliography and patents 
+Answer:(C) Indexing and Abstracting periodicals 
+
+29. Who categorized information source into conventional, non conventional, neo conventional and micro documents : 
+(A) Ranganthan 
+(B) Bradford 
+(C) Grogan 
+(D) Henson 
+Answer: (A) Ranganthan 
+   
+30. Article published in research journal are… 
+(A) Reference sources 
+(B) Secondary sources 
+(C) Primary sources 
+(D) Tertiary sources 
+Answer: (C)
+
+31. What is the Thesaurus? 
+(A) A collection of selected terminology 
+(B) Synonymous terms 
+(C) List of words 
+(D) All of the above 
+Answer: (D)
+
+32. What is a Patent 
+(A) An agreement to the Government 
+(B) Document of the library 
+(C) An agreement between the inventor and the Government 
+(D) An agreement between library and Publisher 
+Answer: (C)
+
+33. World of learning is a what source of information 
+(A) Primary source 
+(B) Documentary source 
+(C) Secondary source 
+(D) Tertiary source 
+Answer: (C)
+
+34. Indian books in Print are published from 
+(A) Tamil nadu 
+(B) Chennai 
+(C) Bombay 
+(D) New Delhi 
+Answer: (D)
+
+36. What is e-prints ?
+(A) A catalogue
+(B)  A journal
+(C) A repository Software
+(D) An encyclopeadia
+Answer: (C)
+
+37. What  two is a Library Management  Software for small libraries?
+(A) Library Solution and Follet
+(B) Follet and MSN
+(C) MSN and Tar
+(D) LYCOS and Live  Search
+Answer: (A)
+
+38. What is APS ? 
+(A) A Search Engine?
+(B) A Full-text e-resourse
+(C) Bibliographic database
+(D) Library Management Software
+Answer: (B)
+
+39. Which one is Library and Information Science Journal name?
+(A) Reference Reviews incorporating ASLIB Book Guide
+(B) Reference Reviews incorporating ASLIB Book journals
+(C) Reference Reviews incorporating ASLIB Book Review
+(D) Reference Reviews incorporating ASLIB E-Book
+Answer: (A)
+
+40. "Shodhganga" is a national level repository of: 
+(A) E-Books 
+(B) E-Journals 
+(C) E-Theses 
+(D) Journal Articles 
+Answer: (C) 
+
+41. Questionnaire is a :
+(A) Research method
+(B) Measurement Technique 
+(C) Tool for data collection 
+(D) All the above
+Answer: (C)
+
+42. Mean, Median and Mode are :
+(A) Measures of deviation 
+(B) Sampling Techniques 
+(C) Measures of control tendency 
+(D) None of the above
+Answer: (D)
+43.  ‘Cranfield Studies’ are an example of :
+(A) Survey Research 
+(B) Experimental Research 
+(C) Historical Research 
+(D) Case Study
+Answer: (B)
+
+44. Research is
+(A) Searching again and again
+(B) Finding solution to any problem
+(C) Working in a scientific way to search for truth of any problem
+(D) None of the above
+Answer: (C)
+
+45. Which of the following is the first step in starting the research process?
+(A) Searching sources of information to locate problem.
+(B) Survey of related literature
+(C) Identification of problem
+(D) Searching for solutions to the problem
+Answer: (C)
+
+46. A common test in research demands much priority on
+(A) Reliability
+(B) Useability
+(C) Objectivity
+(D) All of the above
+Answer: (D)
+
+47. Action research means
+(A) A longitudinal research
+(B) An applied research
+(C) A research initiated to solve an immediate problem
+(D) A research with socioeconomic objective
+Answer: (C)
+
+48. A reasoning where we start with certain particular statements and conclude with a universal statement is called
+(A) Deductive Reasoning
+(B) Inductive Reasoning
+(C) Abnormal Reasoning
+(D) Transcendental Reasoning
+Answer: (B)
+
+49. Research is conducted to
+I. Generate new knowledge
+II. Not to develop a theory
+III. Obtain research degree
+IV. Reinterpret existing knowledge
+Which of the above are correct?
+(A) I, III & II 
+(B) III, II & IV
+(C) II, I & III 
+(D) I, III & IV
+Answer: (D)
+
+
+
+
+
+
+UGC-NET Objective Question, Practice Set-D-2 (51-100)
+
+51.  ________ is a legal document and can be used as a source of industrial information.
+A. Report
+B. Law Review
+C. Patent
+D. Specification
+Answer (D)
+52. In Encyclopaedia Britianica, ___________ acts as an index to macropaedia.
+A. Bibliography
+B. Introduction Part
+C. Propaedia
+D. Micropaedia
+Answer (D)
+53. One of the book selection principles states that “the best reading for the largest number at the ……………Cost.”
+A. maximum
+B. medium
+C. least
+D. zero
+Answer (C)
+54. Payments for the books purchased can be made only after
+A. accessioning
+B. classification
+C Cataloguing
+D arrangement in the shelve
+Answer (A)
+55. The standard size of an accession register is ?
+A.15” x 13”
+B. 16 x 13”
+C.12” x 5”
+D. 5” x 3”
+Answer (B)
+56. ISBN stands for ________
+A. Integrated Services Bibliographic Network
+B. Indian Standard Book Number
+C. International Standard Book Number
+D. International Standard for Book and Non- book
+Answer (C)
+57. The three card system introduced by Ranganathan are
+(i) Register Card
+(ii) Check Card
+(iii)……..
+A. KARDEX
+B LINDEX
+C. Ledger Card
+D. Classified Index Card
+Answer (D)
+58. Technical section performs mainly two functions namely classification and……….
+A. accessioning
+B. bills payment
+C. cataloguing
+D. shelving
+Answer (C)
+59. PRECIS was developed by Derek Austin for use in the ________
+A. BNB
+B. INB
+C. ISBD
+D. ISBN
+Answer (A)
+60. Getting books back from the users and releasing the borrower’s ticket is known as
+A. charging
+B. holding
+C. reserving
+D. discharging
+Answer (D)
+
+61. While entering the library, the personal belongings of a reader is kept in ________
+A. Cloak room
+B. Property counter
+C. Gate counter
+D. Store room
+Answer (B)
+
+62. Books misplaced on the shelves by readers are restored. This work is referred to as 
+A. Shelving
+B. Stock verification
+C. Shelf rectification
+D. Shifting
+Answer (C)
+63. Outdated and seldom used books are withdrawn from the library is known as ___________              A. Shelving
+B. Weeding
+C. Circulating
+D. Guiding
+Answer (B)
+
+64. The objective of library binding is ________of the library materials.
+A. Proper organisation
+B. accessibility.
+C. durability
+D. humidity control
+Answer (C)
+65. All part & pages of a volume are correctly sequenced in the first stage of binding process known as?
+A. sewing
+B. guard
+C. pulling
+D. collation
+Answer (D)
+
+66. Leather being used as one of the binding materials i.e., _________ is the strongest leather
+A. Roan
+B. Imitation
+C. Pig skin
+D. Sheep skin
+Answer (D)
+67. ________ has prescribed certain standards for library binding.
+A. ILA
+B. ALA .
+C. BLA
+D. NBT
+Answer (B)
+
+68. A skillful method of providing means mechanism and structural elements to.
+streamline organizational work is known as _______
+A. Strategic planning
+B. Role analysis
+C. Work culture
+D. Autonomous planning
+Answer (A)
+
+69. Posting the right person at the right place is called
+(A) Recruitment
+(B) Coaching
+(C) Deployment
+(D) Induction
+ANSWER: (D)
+
+70. Principle of maximum aggregate benefit is concerned with________
+(A) growth of library
+(B) library use
+(C) library service
+(D) library fee
+ANSWER: (C)
+
+71.  ….. takes items of expenditure for libraries as the working data for allocation of funds.
+(A) Method of details
+(B) Per capita method
+(C) Principle of economy
+(D) Library budget
+ANSWER: (D)
+71. A budget which mainly covers items of current revenue and expenditure is called___.
+(A) Programme budget
+(B) Welfare economics
+(C) Current budgeting
+(D) Capital budgeting
+ANSWER: (D)
+
+72. _______ budgeting does not take into account what happened in the past but
+emphasizes on current activities.
+(A) formula
+(B) performance
+(C) programme
+(D) zero-base
+ANSWER: (B)
+
+73. The library budget of a university is passed by the ?
+(A) Senate
+(B) Executive Council
+(C) Academic Council
+(D) Research Council
+ANSWER: (B)
+
+74. The concept of Artificial Intelligence (AI) belongs to ____________________
+(A) Second Generation Computers
+(B) Third Generation Computers
+(C) Fourth Generation Computers
+(D) Fifth Generation Computers
+Answer: (D)
+
+75.Computer memory is measured in ____________________
+(A) Bytes
+(B) Kilobytes
+(C) Megabytes
+(D) All of the above
+Answer: (D)
+
+76. The term "Cyberspace" was first used by _________________
+(A) Andrew Pollock
+(B) William Gibson
+(C) John Postal
+(D) Joe Flower
+Answer: (B)
+
+77. The term hypertext was coined by whom?
+(A) Ted Nelson
+(B) Vannevan Bush
+(C) John Brown
+(D) J. C. Kith
+Answer: (A)
+
+78. What are three types of basic languages used in computer programming?
+(A) Zero, low and high levels
+(B) COBOL, BASIC and PROLOG
+(C) FOTRAN, PL/I and SNOWBOL
+(D) Machine, Assembly and high level lannguages
+Answer: (D)
+
+79. When CD-ROM was prepared and made?
+(A) 1985
+(B) 1982
+(C) 1980
+(D) 1977
+Answer: (A)
+
+80. In how many ways switching system can be established?
+(A) Two
+(B) Three
+(C) Five
+(D) Seven
+Answer: (B)
+
+81. Which type of switching system is telephone network?
+(A) Circuit switching
+(B) Packet switching
+(C) Message switching
+(D) None of the above
+Answer: (A)
+
+82. Which of the following software is usful for word processing ?
+(A) DBASE
+(B) LIBSYS
+(C) WordStar
+(D) CDS/ISIS
+Answer: (C)
+
+83. NICNET and INDONET are the networks of which category?
+(A) LAN
+(B) MAN
+(C) WAN
+(D) IN
+Answer: (C)
+
+84. Who designed analytical engine?
+(A) Charles Babbage
+(B) Pascal
+(C) James watt
+(D) Boyl
+Answer: (A)
+
+85. Calculating machine is developed by
+(A) Charles Babbage
+(B) Pascal
+(C) Shakuntala Devi
+(D) Boyl
+Answer: (B)
+
+86. What is a bug?
+(A) Computer Virus
+(B) Error in Computer Configuration
+(C) Error in a Programme
+(D) None of these
+Answer: (C)
+
+87. Which is not a programming language?
+(A) FORTRAN
+(B) BASIC
+(C) COBOL
+(D) ASCII
+Answer: (D)
+
+88. ENIAC stands for?
+(A) Electronic Numerical Integrator and Calculator
+(B) Electrified Numerical Integration and Calculator
+(C) Electronic Number Integrator and Calculator
+(D) Electrical Numerical Integrator and Calculator
+Answer: (A)
+
+89. ISO-9960 is related with?
+(A) Standard for encoding data on CD-ROM
+(B) Standard for Computer Hardware
+(C) Standard for Information Processing
+(D) Standard for Networking
+Answer: (A)
+
+90. ASCII has how many codes?
+(A) 256
+(B) 526
+(C) 265
+(D) 254
+Answer: (A)
+
+91. Raw, unevaluated, unprocessed and unorganized facts is known as:
+(A) Data
+(B) Information
+(C) Knowledge
+(D) Wisdom
+Answer: (A)
+
+92. INTERNET was initially developed by US Department of
+(A) Commerce
+(B) Defense
+(C) Interior
+(D) State
+Answer: B 
+
+93. Information retrieval is fastest from
+(A) Floppy Disk
+(B) Magnetic Tape
+(C) Hard Disk
+(D) None of the above
+Answer: C
+
+94. An University providing Open Access to Sanskrit dissertations through Internet
+(A) Jawaharlal Nehru University
+(B) Delhi University
+(C) Mahatma Gandhi University
+(D) University of Madras
+Answer: B
+
+95. In which of the following the term “Truncation” is used
+(A) Budgeting
+(B) Search Formulation
+(C) Coordination
+(D) Classified bibliography
+Answer: B
+
+96. The term “Hypertext” was coined by
+(A) Garfield
+(B) Bill Gates
+(C) Ted Nelson
+(D) Raj Reddy
+Answer: (C)
+
+97.  UNIX is a
+(A) Single user operating system
+(B) Double user operating system
+(C) Triple user operating system
+(D) Multi user operating system
+Answer: *(D)
+
+98. In fund accounting, _______ fund can not be used for other purposes.
+(A) Recurring
+(B) Non-recurring
+(C) Restricted
+(D) Encumbering
+ANSWER: (A)
+
+99. Scrutiny of financial transactions is called
+(A) Budgeting
+(B) Programming
+(C) Accounting
+(D) Auditing
+ANSWER: (D)
+
+100. A good library building is an outcome of librarian and _________.
+(A) Registrar 
+(B) Building Corporation
+(C) Finance Officer
+(D) Architect
+ANSWER: (D)
+
+
+
+
+
+
+UGC-NET Objective Question, Practice Set - F
+
+51) The Press and Registration of books Act was enacted in
+(A) 1847
+(B) 1850
+(C) 1867
+(D) 1840
+
+52) First B.Lib. Science Course was introduced in
+(A) Aligarh Muslim University
+(B) University of Calcutta
+(C) University of Delhi
+(D) University of Madras
+
+53) J. C. M. Hanson related to
+(A) Sears List of Subject Heading
+(B) Library of Congress Classification System
+(C) UDC
+(D) Dictionary Catalogue
+
+54) Third generation computer uses
+(A) Microprocessor
+(B) Transistors
+(C) Integrated circuits
+(D) Thermionic valves or vacuum tube or electronic valves
+
+
+
+55) Fourth generation computer uses
+(A) Microprocessor
+(B) Thermionic valves or vacuum tube or electronic valves
+(C) Transistors
+(D) Integrated circuits
+
+56) UNIMARC was developed by
+(A) UNESCO
+(B) IFLA
+(C) FID
+(D) Library of Congress
+
+57) Universal Copyright conventions was in
+(A) 1949
+(B) 1952
+(C) 1971
+(D) 1931
+
+58) The UNESCO Public Library Manifesto first issued in
+(A) 1949
+(B) 1952
+(C) 1971
+(D) 1931
+
+59) Which of the following is not a web browser?
+(A) Firefox
+(B) Internet Explorer
+(C) Google Chrome
+(D) DMOZ
+
+60) Haines related to
+(A) Ranganathan formulated his first law of library from his casual hint.
+(B) Library legislation
+(C) Living with book
+(D) Zero Based Budget
+
+61) Which of the following is not a Learning Management System (LMS)
+(A) Moodle
+(B) Claroline
+(C) Drupal
+(D) ATutor
+
+62) DSpace was developed at
+(A) Katipo Communications Ltd, New Zealand
+(B) University of Waikato, New Zealand.
+(C) Massachusetts Institute of Technology (MIT) libraries & Hewlett-Packard labs
+(D) Wikimedia Foundation
+
+63) Melvin J. Voigt
+(A) Categorized information need into current approach, everyday approach, and exhaustive approach.
+(B) Divides documentary sources of information into primary and secondary.
+(C) Divides documentary sources of information into primary, secondary and tertiary.
+(D) Classified documentary sources of information into Conventional, Neo Conventional, Non Conventional and meta document.
+
+64) GSDL was developed at
+(A) Massachusetts Institute of Technology (MIT) libraries & Hewlett-Packard labs
+(B) Katipo Communications Ltd, New Zealand
+(C) University of Waikato, New Zealand.
+(D) Wikimedia Foundation
+
+65) Dr. S. R. Ranganathan
+(A) Categorized information need into current approach, everyday approach, and exhaustive approach.
+(B) Divides documentary sources of information into primary and secondary.
+(C) Divides documentary sources of information into primary, secondary and tertiary.
+(D) Classified documentary sources of information into Conventional, Neo Conventional, Non Conventional and meta document.
+
+66) The head office of Good Offices Committee is at
+(A) Kolkata
+(B) New Delhi
+(C) Bangalore
+(D) Chennai
+
+67) The first university to establish a full-fledged Department of Library Science
+(A) University of Delhi
+(B) Calcutta University
+(C) Aligarh Muslim University
+(D) University of Madras
+
+68) An Invisible college is a typical example of:
+(A) Informal channels of communication
+(B) Formal channels of communication
+(C) Both (A) and (B)
+(D) None of the above
+
+69) Berne convention was adopted in the year :
+(A) 1911
+(B) 1886
+(C) 1900
+(D) 1947
+
+70) FID was dissolved in the year :
+A) 2002
+(B) 2005
+(C) 2000
+(D) 2003
+
+71) Who had given the Minimal, Middling and Maximum theories of reference service?
+(A) C. M. Winchell
+(B) S. R. Ranganathan
+(C) James I Wyer
+(D) Samuel Rothstein
+
+
+72) PERT was developed by :
+(A) The Navy special project office
+(B) Booz Allen Hamelton
+(C) Both (A) and (B)
+(D) None of the above
+
+73) The term hyper text was coined by :
+(A) Ted Nelson
+(B) Charles Babbage
+(C) Tim Berner Lee
+(D) Tay Vaughan
+
+74) The 12 rules for relational database were given by:
+(A) Larvy Page
+(B) Linus Tolward
+(C) J. Bill Gates
+(D) Edgar. F. Codd
+
+75) Bibliographic coupling was first advocated by :
+(A) B. K. Sen
+(B) M. M. Kessler
+(C) S. C. Bradford
+(D) S. R. Ranganathan
+
+76) Granthana is an official publication of :
+(A) ILA
+(B) IASLIC
+(C) RRRLF
+(D) APLA
+
+77) Million Book Project was initiated by:
+(A) Pittsburg University
+(B) Carnegie Mellon University
+(C) MIT, USA
+(D) Michigan University
+
+78) The quotation “Where is the Wisdom, We Lost in Knowledge...” is by
+(A) John Keats
+(B) M. P. Carter
+(C) T. S. Eliot
+(D) Marshall McLuhan
+
+79) CONPOLIS (India) was set up in the year
+(A) 1985
+(B) 1986
+(C) 1987
+(D) 1988
+
+80) First time efforts for the development of libraries in India were made
+(A) S. R. Ranganathan
+(B) S. Radhakrishnan
+(C) Sayaji Rao Gaekwad I
+(D) Sayaji Rao Gaekwad III
+
+81) Emerald full text Database is published from
+(A) USA
+(B) Germany
+(C) France
+(D) U.K.
+
+82) Who propounded “Conservative, moderate and liberal theories of reference service”?
+(A) William A Katz
+(B) S. R. Ranganathan
+(C) James I. Wyer
+(D) R. Emery
+
+83) Which national agency in India is assigning the ISBN?
+(A) Raja Ram Mohan Roy National Education Resource Centre
+(B) Delhi Public Library
+(C) Federation of Publishers in India
+(D) National Library of India
+
+84) The term ‘Cyberspace’ was first used by
+(A) Andrew Pollock
+(B) William Gibson
+(C) John Postal
+(D) Joe Flower
+
+85) The simple Dublin Core Metadata Element Set (DCMES) consists of
+(A) 10 elements
+(B) 15 elements
+(C) 14 elements
+(D) 18 elements
+
+86) “Libraries as Gateways to Knowledge” is the title of the document of
+(A) National Information Policy, 1986
+(B) Information Technology Act, 2000
+(C) National Knowledge Commission on Libraries, 2007
+(D) None of the above
+
+87) The Library Association (UK) is now the component of
+(A) ASLIB
+(B) CILIP
+(C) ALA
+(D) None of the above
+
+88) Real Time Access refers to
+(A) Access in advance
+(B) Access after some time
+(C) Access when searched for
+(D) None of the above
+
+89) Theory X and Theory Y relate to
+(A) Planning
+(B) Motivation
+(C) Innovation
+(D) None of the above
+
+90) INSDOC has been merged with NISCOM and is now known as
+(A) DELNET
+(B) NISCAIR
+(C) DESIDOC
+(D) NASSDOC
+
+91) ISBN consists of
+(A) 6 digits
+(B) 8 digits
+(C) 13 digits
+(D) 15 digits
+
+92) Bibliographical coupling is related to
+(A) Bibliometric studies
+(B) Bibliography compilation
+(C) Modes of subject formation
+(D) Vocabulary control
+
+93) ISBN changed from 10 digits to 13 from
+(A) January, 2007
+(B) January, 2008
+(C) January, 2006
+(D) January, 2005
+
+94) IASLIC was founded in the year
+(A) 1955
+(B) 1965
+(C) 1975
+(D) 1985
+
+95) WorldCat is maintained by
+(A) Library of Congress
+(B) Online Library Center
+(C) American Library Association
+(D) None of the above
+
+96) Number of States in India which have enacted Public Library Legislation till date is
+(A) Eighteen
+(B) Fourteen
+(C) Thirteen
+(D) Sixteen
+
+97) Which publication was not authored by S.R. Ranaganathan?
+(A) Prolegomena to library classification
+(B) Reference Service
+(C) Ramanujan : The man and the Mathematician
+(D) Living with Books
+
+98) JSTOR is an online system for archiving and accessing academic journals. It is located in
+(A) Germany
+(B) UK
+(C) USA
+(D) Budapest
+
+99) ‘Five Laws of Library Science’ was first published in
+(A) 1925
+(B) 1930
+(C) 1931
+(D) 1933
+
+100) What is Dublin Core?
+(A) Content management tool
+(B) E- Library software
+(C) Metadata standard
+(D) Internet Protocol
+
+
+ANSWER:-
+
+51) Answer: (C)
+52) Answer: (A)
+53) Answer: (B)
+54) Answer: (C)
+55) Answer: (A)
+56) Answer: (B)
+57) Answer: (B)
+58) Answer: (A)
+59) Answer: (D)
+60) Answer: (C)
+61) Answer: (C)
+62) Answer: (C)
+63) Answer: (A)
+64) Answer: (C)
+65) Answer: (D)
+66) Answer: (B)
+67) Answer: (A)
+68) Answer: (A)
+69) Answer: (B)
+70) Answer: (A)
+71) Answer: (D)
+72) Answer: (A)
+73) Answer: (A)
+74) Answer: (D)
+75) Answer: (B)
+76) Answer: (C)
+77) Answer: (B)
+78) Answer: (C)
+79) Answer: (A)
+81) Answer: (D)
+82) Answer: (C)
+83) Answer: (A)
+84) Answer: (B)
+85) Answer: (B)
+86) Answer: (C)
+87) Answer: (B)
+88) Answer: (C)
+89) Answer: (B)
+90) Answer: (B)
+91) Answer: (C)
+92) Answer: (A)
+93) Answer: (A)
+94) Answer: (A)
+95) Answer: (D)
+96) Answer: (A)
+97) Answer: (D)
+98) Answer: (C)
+99) Answer: (C)
+100) Answer: (C)
+
+
+
+
+
+
+
+
+Question Bank for UGC-NET - 2
+Information is …
+(A) Raw data
+(B) Raw knowledge
+(C) Input data
+(D) Organized data
+Answer: (D)
+
+‘Fair use’ is a term most relevant to :
+(A) Intellectual Property Rights
+(B) Books borrowed for home reading
+(C) Copy right
+(D) Use of reference books
+Answer: (C)
+
+WIPO stands for :
+(A) World Information and Patents Organisation
+(B) World Intellectual Property Organisation
+(C) World International Property Organisation
+(D) World Information Protection Organisation
+Answer: (B)
+
+Handling of Information in the sense of production is called :
+(A) Information Marketing
+(B) Information Industry
+(C) Information Production
+(D) Information Revolution
+Answer: (B)
+
+BERN CONVENTION (1886) is concerned with :
+(A) Translations
+(B) Copyright
+(C) Patent
+(D) Standards
+Answer: (B)
+
+Informal communication among knowledgeable person is known as :
+(A) Invisible College
+(B) Information Gatekeeper
+(C) Communication Gatekeeper
+(D) Knowledge Management
+Answer: (A)
+
+Which one of the following is not associated with the communication system.
+(A) Reciever
+(B) Channel
+(C) Sender
+(D) Entropy
+Answer: (D)
+
+Which is correct logical sequence of the following.
+(A)  Information, Knowledge, Data, Wisdom
+(B)  Knowledge, Wisdom, Information, Data
+(C) Wisdom, Information, Data, Knowledge
+(D)  Data, Infomation, Knowledge, Wisdom
+Answer: (D)
+
+The invisible web refers to-
+(A)  the internet, since we cannot see it
+(B)  that part of the internet, which is hidden from the search engines
+(C) the telecommunication signals which are not seen
+(D)  the failure in accessing the web pages
+Answer: (B)
+
+Who was the chairman of National Library Committee of India.
+(A)   B.S. Jha
+(B)  K.P. Sinha
+(C) S. Mudaliar
+(D)  C.D. Deshmukh
+Answer: (A)
+
+Which organisation applied Library and Information Policy in India at national level.
+(A)   NISSAT
+(B)  INSDOC
+(C) UNESCO
+(D)  RRRLF
+Answer: (D)
+
+Where is the head quarter of PatentInformation System in India.
+(A) Pune
+(B) Mumbai
+(C) Nagpur
+(D) Delhi
+Answer: (C)
+
+The act enacted in India in 1856 on Intellectual Property Right was based on .
+(A)  American Patent Law 1810
+(B)  British Patent Law 1852
+(C) The Patent Bill
+(D)  The Design Act of 1911
+Answer: (B)
+
+Whether intellectual property can be sold.
+(A)  No
+(B)  Sale is possible
+(C) Yes
+(D)  None of these
+Answer: (B)
+
+The term communication came from which language?
+(A)  Greek
+(B)  Latin
+(C) German
+(D)  French
+Answer: (B)
+
+Who is the propounder of the term information transfer ?
+(A)  Ranganathan
+(B)  J.Martin
+(C) Beesman
+(D)  Calvin Moores
+Answer: (C)
+
+To which country the credit is given to coin the term information society ?
+(A) USA
+(B) France
+(C) Japan
+(D) India
+Answer: (C)
+
+Today information is regarded as which of the following ?
+(A) Wealth
+(B) Commodity
+(C) Products
+(D) All the above
+Answer: (D)
+
+Now a day’s what is a most important vital resource for societal development of a country?
+(A)  Books
+(B) Knowledge
+(C) Information
+(D) Data
+Answer: (C)
+
+What is the unit of information?
+(A)  Bit
+(B)  Byte
+(C)  Gram
+(D)  Hertz
+Answer: (A)
+
+Delivery of Book Act passed in the year
+(A) 1963
+(B) 1972
+(C) 1960
+(D) 1954
+Answer :(D)1954
+
+Who is the Father of a computer
+(A) Steve Jobs
+(B) Vint Cerf
+(C) Tim Berners-Lee
+(D) Charles Babbage
+Answer: (D)
+
+When was Dr.S. R. Ranganathan was appointed as a National research professor of Library science
+(A) 1942
+(B) 1962
+(C) 1972
+(D) 1952
+Answer: (B) (1962)
+
+Which Indian University first started M.Lib.Sc. & M.Phil courses
+(A) University of Delhi
+(B) University of Madras
+(C) S.N.D.T. Women University, Bombay
+(D) Aligar Muslim University
+Answer : (A)
+
+Which Commission recommended 10% of the total college budget for development of Libraries
+(A) Dr. S. R. Ranganathan Committee
+(B) Mehrotra Committee
+(C) Kothari committee
+(D) Curriculum development committee in LIS
+Answer: (C)
+
+UNISIST is a
+(A) Software
+(B) A Programme
+(C) Welfare association
+(D) A committee
+Answer: (B)
+
+Where did Dr. S. R. Ranganathan put forth his five laws of library science?
+(A) Meenakshi college, Annamalainagar
+(B) Hindu College, New Delhi
+(C) City College, Bangalore
+(D) Christ College, Bangalore
+Answer: (A)
+
+When did ILA became the member of IFLA?
+(A) 1952
+(B) 1955
+(C) 1957
+(D) 1965
+Answer: (C)
+
+In which year Aslib was acquired by MCB group, the holding company for emerald group publishing?
+(A) 2003
+(B) 2005
+(C) 2009
+(D) 2010
+Answer: (D)
+
+Which association`s tagline is “managing information”?
+(A) IFLA
+(B) Aslib
+(C) ALA
+(D) LC
+Answer: (B)
+
+Which association`s tagline is “connecting people and information”?
+(A) SLA
+(B) IFLA
+(C) ALA
+(D) COMLA
+Answer: (A)
+
+When was the International institute of Documentation established?
+(A) 1931
+(B) 1934
+(C) 1940
+(D) 1945
+Answer: (A)
+
+Which organization has introduced the concept of “Sister libraries” for children`s and young adults reading?
+(A) UNESCO
+(B) IFLA
+(C) LC
+(D) LA
+Answer: (B)
+
+In which year the ISBN allocation office in India shifted from Kolkatta to Delhi?
+(A) 2009
+(B) 2010
+(C) 2011
+(D) 2012
+Answer: (C)
+
+Which two organizations jointly publish survey on digitization and preservation?
+(A) IFLA + UNESCO
+(B) ALA + UNESCO
+(C) IFLA + ALA
+(D) IFLA + LC
+Answer: (A)
+
+Who said that “Librarianship is not a profession”?
+(A) Madden, Moon, Moore, Mc Pheron
+(B) Goode, Rossi, Shaffer, Gullis
+(C) Dewey, Rundey, Reeves, Aishen
+(D) Ranganathan, Dewey, Cutter
+Answer: (A)
+
+Which organization was joined with Library
+Association to form CILIP in 2002?
+(A) Institute of Bibliography
+(B) Institute of Information Scientists
+(C) Institute of Documentation
+(D) Institute of Librarianship
+Answer: (B)
+
+In which year International institute of Documentation changed to International federation of Documentation?
+(A) 1931
+(B) 1937
+(C) 1945
+(D) 1948
+Answer: (B)
+
+In which year headquarter of FID was shifted from Brussels to The Hague?
+(A) 1925
+(B) 1928
+(C) 1930
+(D) 1934
+Answer: (D)
+
+Who gave the sixth law of library science “Every reader his/her freedom”?
+(A) Walt Crawford
+(B) Michael Gorman
+(C) James R. Rettig
+(D) Lenart Bjorneborn
+Answer: (C)
+
+
+Where was the first library noticed in India?
+(A) Taxila
+(B) Nalanda
+(C) Vallabhi
+(D) Sravasti
+Answer: (D)
+
+When was the curriculam development committee on LIS instituted?
+(A) 1988-89
+(B) 1990-93
+(C) 1994-97
+(D) 1999-02
+Answer: (B)
+
+Who published the journal International classification?
+(A) IFLA
+(B) UNESCO
+(C) ISKO
+(D) ALA
+Answer: (C)
+
+Which association in India awards teachers in LIS?
+(A) IATLIS
+(B) ILA
+(C) IASLIC
+(D) SIS
+Answer: (A)
+
+Where is the headquarter of SLA?
+(A) New York
+(B) Lagos
+(C) Shimla
+(D) New Delhi
+Answer: (A)
+
+Which law of library Science relates to the growth of libraries
+(A) Forth law
+(B) First law
+(C) Second law
+(D) Fifth law
+Answer: (D)
+
+
+UAP stands for what of the following
+(A) United Academy of publication
+(B) Universal Association of Publishers
+(C) Universal Availability of Publications.
+(D) Universal Association of Publishers
+Answer: (C)
+
+Resource sharing is a part of
+(A) Library cooperation
+(B)Library Administration
+(C)Library Management
+(D)Library Cataloging
+Answer: (A)
+
+The five laws of Library Science published in the book form in the year
+(A)1924
+(B)1931
+(C)1928
+(D)1930
+Answer:(B)
+
+Library Techology Report is a publication of
+(A) ALA
+(B) IASLIC
+(C) LA
+(D) ILA
+Answer: (A)
+
+When was the Amercian Library Assoication established
+(A) 1876
+(B) 1872
+(C) 1875
+(D) 1880
+Answer: (A)
+
+Which term was coined by Dr.S.R.Ranganathan for mobile libraries
+(A) Moving Library
+(B) Library on Wheels
+(C) Library Machine
+(D) All of above
+Answer:(B)
+
+The Librarian Day celebrated on
+(A) 15th Sep
+(B) 24th Nov
+(C) 11th Dec
+(D) 12th Aug
+Answer: (D)
+
+Forms of Extension service
+(A) Library Websites
+(B) Library Orientation
+(C) Book fair and Exhibition
+(D) All
+Answer: (D)
+
+The first library school was started by
+(A) Melvin Dewey
+(B) Charles Williamson
+(C) John Macfarlane
+(D) William Allenson Borden
+Answer:(A)
+
+Encyclopedia of library and Information Science is published by :
+(A) H. W. Wilson
+(B) R. R. Bowker
+(C) Marcel Dekker
+(D) Andrew Deutsch
+Answer: (C) Marcel Dekker
+
+The secondary source of information comprised of:
+(A) Text books and research monographs.
+(B) Subject periodicals and encycyclopaedias
+(C) Indexing and Abstracting periodicals
+(D) Bibliography and patents
+Answer:(C) Indexing and Abstracting periodicals
+
+Who categorized information source into conventional, non conventional, neo conventional and micro documents :
+(A) Ranganthan
+(B) Bradford
+(C) Grogan
+(D) Henson
+Answer: (A) Ranganthan
+
+Article published in research journal are…
+(A) Reference sources
+(B) Secondary sources
+(C) Primary sources
+(D) Tertiary sources
+Answer: (C)
+
+What is the Thesaurus?
+(A) A collection of selected terminology
+(B) Synonymous terms
+(C) List of words
+(D) All of the above
+Answer: (D)
+
+What is a Patent
+(A) An agreement to the Government
+(B) Document of the library
+(C) An agreement between the inventor and the Government
+(D) An agreement between library and Publisher
+Answer: (C)
+
+World of learning is a what source of information
+(A) Primary source
+(B) Documentary source
+(C) Secondary source (D) Tertiary source
+ Answer: (C)
+
+Indian books in Print are published from
+(A) Tamil nadu
+(B) Chennai
+(C) Bombay
+(D) New Delhi
+Answer: (D)
+
+Cumulative book index is published from
+(A) India
+(B) USA
+(C) Canada
+(D) Thailand
+Answer: (B)
+
+Statesman year book is published from
+(A) London
+(B) New york
+(C) Calcutta
+(D) Chicago
+Answer: (A) (MacMillan , Annual)
+
+Word of learning is Published by
+(A) Asian events
+(B) Keesing’s
+(C) Europa publication
+(D) Harper & Row
+Answer: (C) ( London)
+
+Who is the editor of “Library Herald”
+(A) Krishan Kumar
+(B) C. K. Sharma
+(C) S. R. Ranganathan
+(D) F.Monbray Volte
+Answer: (A)
+
+Who was Published the monthly Journal “The Library World’
+(A) Krishan kumar
+(B) J. D. Brown
+(C) H. W. Wilson
+(D) K. Navlavi
+Answer: (B)
+
+Facts of File is weekly digest of
+(A) Indian events
+(B) American events
+(C) World events
+(D) England events
+Answer: (C)
+
+Who is the first editor of “Modern Librarian”?
+(A) F.Monbrary Volte
+(B) Dr. S. R. Ranganathan
+(C) J. D. Brown
+(D) Krishan Kumar
+Answer: (A)
+
+
+
+
+
+
+
+Question Bank for UGC-NET - 3
+Getting books back from the users and releasing the borrower’s ticket is known as
+ A. charging
+ B. holding
+ C. reserving
+ D. discharging
+ Answer (D)
+
+While entering the library, the personal belongings of a reader is kept in                
+ A. Cloak room
+ B. Property counter
+ C. Gate counter
+ D. Store room
+ Answer (B)
+
+Books misplaced on the shelves by readers are restored. This work is referred to as
+ A. Shelving
+ B. Stock verification
+ C. Shelf rectification
+ D. Shifting
+ Answer (C)
+
+Outdated and seldom used books are withdrawn from the library is known as
+A. Shelving
+B. Weeding
+C. Circulating
+D. Guiding
+Answer (B)
+
+The objective of library binding is...........of the library materials.
+A. Proper organisation
+B. accessibility.
+C. durability
+D. humidity control
+Answer (C)
+
+All part and pages of a volume are correctly sequenced in the first stage of binding process known as?
+A. sewing
+B. guard
+C. pulling
+D. collation
+Answer (D)
+
+Sheets before and after the text of a book are called      
+A. End papers
+B. Attach cover
+C Head bands
+D Gilding
+Answer (A)
+
+Leather being used as one of the binding materials i.e., ...... is the strongest leather.
+A Roan
+B. Imitation
+C. Pig skin
+D. Sheep skin
+Answer (D)
+
+........has prescribed certain standards for library binding.
+A. ILA
+B. ALA .
+ C. BLA
+D. NBT
+Answer (B)
+
+A skillful method of providing means mechanism and structural elements to. streamline organizational work is known as
+A. Strategic planning
+B. Role analysis
+C. Work culture
+D. Autonomous planning
+Answer (A)
+
+On which of the following technologies semantic web is not based?
+(A) RDF
+(B) Ontologies
+(C) Cloud seeding
+(D) URI
+Answer: (C)
+
+World Wide Web (WWW) was first designed by whom?
+(A) Charles Babbage
+(B) F. W. Lancaster
+(C) Ted Nelson
+(D) Tim Berner's Lee
+Answer: (D)
+
+Which generation computers uses integrated circuits(ICs)?
+(A) First
+(B) Second
+(C) Third
+(D) Fourth
+Answer: (C)
+
+The concept of Artificial Intelligence (AI) belongs to                                        
+(A) Second Generation Computers
+(B) Third Generation Computers
+(C) Fourth Generation Computers
+(D) Fifth Generation Computers Answer: (D)
+
+Computer memory is measured in
+(A) Bytes
+(B) Kilobytes
+(C) Megabytes
+(D) All of the above
+Answer: (D)
+
+The term "Cyberspace" was first used by
+(A) Andrew Pollock
+(B) William Gibson
+(C) John Postal
+(D) Joe Flower
+Answer: (B)
+
+The term hypertext was coined by whom?
+(A) Ted Nelson
+(B) Vannevan Bush
+(C) John Brown
+(D) J. C. Kith
+Answer: (A)
+
+What are three types of basic languages used in computer programming?
+(A) Zero, low and high levels
+(B) COBOL, BASIC and PROLOG
+(C) FOTRAN, PL/I and SNOWBOL
+(D) Machine, Assembly and high level lannguages
+Answer: (D)
+
+When CD-ROM was prepared and made?
+(A) 1985
+(B) 1982
+(C) 1980
+(D) 1977
+Answer: (A)
+
+In how many ways switching system can be established?
+(A) Two
+(B) Three
+(C) Five
+(D) Seven
+Answer: (B)
+
+
+Which type of switching system is  telephone network?
+(A) Circuit switching
+(B) Packet switching
+(C) Message switching
+(D) None of the above
+Answer: (A)
+
+Which of the following software  is usful for word processing ?
+(A) DBASE
+(B) LIBSYS
+(C) WordStar
+(D) CDS/ISIS
+Answer: (C)
+
+NICNET and INDONET are the networks of which category?
+(A) LAN
+(B) MAN
+(C) WAN
+(D) IN
+Answer: (C)
+
+
+Who designed analytical engine?
+(A) Charles Babbage
+(B) Pascal
+(C) James watt
+(D) Boyl
+Answer: (A)
+
+Calculating machine is developed by
+(A) Charles Babbage
+(B) Pascal
+(C) Shakuntala Devi
+(D) Boyl
+Answer: (B)
+
+What is a bug?
+(A) Computer Virus
+(B) Error in Computer Configuration
+(C) Error in a Programme
+(D) None of these
+Answer: (C)
+
+Which is not a programming language?
+(A) FORTRAN
+(B) BASIC
+(C) COBOL
+(D) ASCII
+Answer: (D)
+
+ENIAC stands for?
+(A) Electronic Numerical Integrator and Calculator
+(B) Electrified Numerical Integration and Calculator
+(C) Electronic Number Integrator and Calculator
+(D) Electrical Numerical Integrator and Calculator
+Answer: (A)
+
+ISO-9960 is related with?
+(A) Standard for encoding data on CD-ROM
+(B) Standard for Computer Hardware
+(C) Standard for Information Processing
+(D) Standard for Networking
+Answer: (A)
+
+ASCII has how many codes?
+(A) 256
+(B) 526
+(C) 265
+(D) 254
+Answer: (A)
+
+Raw, unevaluated, unprocessed and unorganized facts is known as:
+(A)  Data
+(B)  Information
+(C) Knowledge
+(D)  Wisdom
+Answer: (A)
+
+INTERNET was initially developed by US Department of
+(A)  Commerce
+(B)  Defense
+(C) Interior
+(D) State
+Answer: B
+
+Information retrieval is fastest from
+(A)  Floppy Disk
+(B)  Magnetic Tape
+(C) Hard Disk
+(D)  None of the above
+Answer: C
+
+An University providing Open Access to Sanskrit  dissertations through Internet
+(A)  Jawaharlal Nehru University
+(B)  Delhi University
+(C) Mahatma Gandhi University
+(D) University of Madras
+Answer: B
+
+In which of the following the term “Truncation” is used
+(A) Budgeting
+(B) Search Formulation
+(C) Coordination
+(D) Classified bibliography
+Answer: B
+
+The term “Hypertext” was coined by
+(A)  Garfield
+(B)  Bill Gates
+(C) Ted Nelson
+(D) Raj Reddy Answer: (C)
+
+UNIX is a
+(A) Single user operating system
+(B)  Double user operating system
+(C) Triple user operating system
+(D) Multi user operating system
+Answer: *(D)
+
+The CD alphabets in CDS/ISIS stands for
+(A) Computerized Documentation
+(B)  Condensed Disk
+(C) Confirmed Disc
+(D)  Compact Disc
+Answer: A
+
+LYCOS is a
+(A)  search engine
+(B)  programming language
+(C) database
+(D)  database vendor
+Answer: A
+
+Electronic telecommunications system joining millions of computers together.
+(A) E-mail
+(B) Internet
+(C) US Mail
+(D) UPS
+Answer: B
+
+Following is not a social bookmarking site:
+(A) Digg
+(B) Delicious
+(C) Sqidoo
+(D) Facebook
+Answer: (C)
+
+Following is not a network protocol:
+(A) HTTP
+(B) SMTP
+(C) TCP/IP
+(D) Z39.50
+Answer: (D)
+
+LOCKOSS (Software) is an international community initiative by:
+(A) MIT Libraries
+(B) Stanford University
+(C) University of Waikato
+(D) University of Southampton
+Answer: (B)
+
+Identify the odd one from the following:
+(A) Koha
+(B) VTLS
+(C) SLIM++
+(D) SOUL
+Answer: (A)
+
+Following is not a Web 2.0 tool:
+(A) Blog
+(B) Facebook
+(C) UGC-INFONET 2.0
+(D) RSS feeds
+Answer: (C)
+
+PDA stands for:
+(A) Personal Digital Assistance
+(B) Personal Document Archive (c) Personal Digital Archive
+(D) Program Download Accessories
+Answer: (A)
+
+PLONE is a:
+(A) Content Mnagement System
+(B) Digital Library Software
+(C) ILMS
+(D) Federated Search Engine
+Answer: (A)
+
+Pi is the e-book reading device by:
+(A) Amazon
+(B) Sony
+(C) Infibeam
+(D) Nokia
+Answer: (C)
+
+Following is an example of microblogging:
+(A) Wordpress
+(B) Blogspot
+(C) Livejournal
+(D) Twitter
+Answer: (D)
+
+CCF stands for
+(A) Common Communication Format
+(B) Centre for Communication Format
+(C) Committee for Communication Format
+(D) Common Curriculum Format
+Answer: (A)
+
+In Which five year plan the INFLIBNET was established
+(A) Fourth five year plan
+(B) Fifth five year plan
+(C) sixth five year plan
+(D) seventh five year plan
+Answer: (D)
+
+INFLIBNET headquarters is located at
+(A) Ahmedabad
+(B) New Delhi
+(C) Bangalore
+(D) Chennai
+Answer: (A) (Ahmedabad, Gujarat)
+
+Resource sharing is a part of …
+(A) Library cooperation
+(B) Library administration
+(C) Library management
+(D) Library cataloguing
+Answer: (A)
+
+What is the full form of ERNET?
+(A) Engineering Network
+(B) Eastern Regional Network
+(C) Electronic Research Network
+(D) Education and Research Network
+Answer: (D)
+
+Which network in India provided the first e- mail service in the country?
+(A) NICNET
+(B) DELNET
+(C) ERNET
+(D) INFLIBNET
+Answer: (C)
+
+Who publishes Annals of Library Science and documentation?
+(A) ILA
+(B) INSDOC
+(C) DRTC
+(D) IASLIC
+Answer: (B)
+
+What is full text e-Resource ?
+(A) JCCC
+(B) ISID
+(C) Science finder scholar
+(D) ACS
+Answer: (D) (American chemical society)
+
+Which one is E-Bibliographic database?
+(A) Nature
+(B) Blackwell
+(C) ISID
+(D) Springer
+Answer: (C)
+
+Virtua accomadates Different version of the
+MARC Standard?
+(A) USMARC
+(B) UKMARC
+(C) CANMARC
+(D) SWEMARC/All of above
+Answer: (D)
+
+Which  is the journal of Llibrary and
+Information Science?
+(A) Abacus
+(B) Acta numerica
+(C) Interlending and Document supply
+(D) 4OR
+Answer: (C)
+
+The Electronic Library is......................
+(A) A Magazine
+(B) A Journal Name
+(C) A LIbrary
+(D) An Encyclopeadia
+Answer: (B)
+
+What is e-prints ?
+(A) A catalogue
+(B)  A journal
+(C) A repository Software
+(D) An encyclopeadia
+Answer: (C)
+
+What  two is a Library Management  Software for small libraries?
+(A) Library Solution and Follet
+(B) Follet and MSN
+(C) MSN and Tar
+(D) LYCOS and Live  Search
+Answer: (A)
+
+What is APS ?
+(A) A Search Engine?
+(B) A Full-text e-resourse
+(C) Bibliographic database
+(D) Library Management Software
+Answer: (B)
+
+Which one is Library and Information
+Science Journal name?
+(A) Reference Reviews incorporating ASLIB Book Guide
+(B) Reference Reviews incorporating ASLIB Book journals
+(C) Reference Reviews incorporating ASLIB Book Review
+(D) Reference Reviews incorporating ASLIB E-Book
+Answer: (A)
+
+"Shodhganga" is a national level repository of:
+(A) E-Books
+(B) E-Journals
+(C) E-Theses
+(D) Journal Articles
+Answer: (C)
+
+Questionnaire is a :
+(A) Research method
+(B) Measurement Technique
+(C) Tool for data collection
+(D) All the above
+Answer: (C)
+
+Mean, Median and Mode are :
+(A) Measures of deviation
+(B) Ways of sampling
+(C) Measures of control tendency
+(D) None of the above
+Answer: (D)
+
+‘Cranfield Studies’ are an example of :
+(A) Survey Research
+(B) Experimental Research
+(C) Historical Research
+(D) Case Study
+Answer: (B)
+
+Research is
+(A) Searching again and again
+(B) Finding solution to any problem
+(C) Working in a scientific way to search for truth of any problem
+(D) None of the above
+Answer: (C)
+
+Which of the following is the first step in starting the research process?
+(A) Searching sources of information to locate problem.
+(B) Survey of related literature
+(C) Identification of problem
+(D) Searching for solutions to the problem
+Answer: (C)
+
+A common test in research demands much priority on
+(A) Reliability
+(B) Useability
+(C) Objectivity
+(D) All of the above
+Answer: (D)
+
+Action research means
+(A) A longitudinal research
+(B) An applied research
+(C) A research initiated to solve an immediate problem
+(D) A research with socioeconomic objective
+Answer: (C)
+
+
+A reasoning where we start with certain particular statements and conclude with a universal statement is called
+(A) Deductive Reasoning
+(B) Inductive Reasoning
+(C) Abnormal Reasoning
+(D) Transcendental Reasoning
+Answer: (B)
+
+Research is conducted to
+I. Generate new knowledge
+II. Not to develop a theory
+III. Obtain research degree
+IV. Reinterpret existing knowledge
+
+Which of the above are correct?
+(A) I, III & II
+(B) III, II & IV
+(C) II, I & III (D) I, III & IV Answer: (D)
+
+
+Which of the following variables cannot be expressed in quantitative terms?
+(A) Socio-economic Status
+(B) Marital Status
+(C) Numerical Aptitude
+(D) Professional Attitude
+Answer: (C)
+
+The essential qualities of a researcher are
+(A) Spirit of free enquiry
+(B) Reliance on observation and evidence
+(C) Systematization or theorizing of knowledge
+(D) All the above
+Answer: (D)
+
+In the process of conducting research ‘Formulation of Hypothesis” is followed by
+(A) Statement of Objectives
+(B) Analysis of Data
+(C) Selection of Research Tools
+(D) Collection of Data
+Answer: (C)
+
+A research paper is a brief report of research work based on
+
+
+(A) Primary Data only
+(B) Secondary Data only
+(C) Both Primary and Secondary Data
+(D) None of the above
+Answer: (C)
+
+
+One of the following is not an open source software :
+(A) D’space
+(B) Windows
+(C) Green-stone
+(D) Linux
+Answer: (B) Windows
+
+When RRRLF was established?
+(A) 1970
+(B) 1971
+(C) 1972
+(D) 1974
+Answer: (C)
+
+Where is the headquarter of RRRLF?
+(A) Banglore
+(B) Delhi
+(C) Calcutta
+(D) Lucknow
+Answer: (C)
+
+Who provides the ISBN?
+(A) Niscair
+(B) Nissat
+(C) Insdoc
+(D) RRRLF
+Answer: (D)
+
+RRRLF provides the?
+(A) ISSN
+(B) ISBN
+(C) CCF
+(D) MARC
+Answer: (B)
+
+“It is a library with little or no physical presence of books, periodicals, reading space or support staff, but are that disseminate disseminate selective information directly to distribute library customers, usually electronically”. Said by whom?
+(A) Kay Gapen
+(B) Powell
+(C) Sherwell
+(D) H. G. Wells
+Answer: (B)
+
+”A library is a public institution or establishment charged with the care of collection of books, the duty of making them accessible to those who require the use of them and the task of converting every person in its neighborhood into a habitual library goers and reader of books.”Quoted by whom?
+(A) Dr S R Ranganathan
+(B) K.N.Raj
+(C) C.A.Cutter
+(D) W.C.Sayers
+Answer: (A)
+
+Classification of all types of libraries has been made by-
+(A) IFLA
+(B) UNISIST
+(C) UNESCO
+(D) INSDOC
+Answer: (C)
+
+”Special libraries serve a specialist clientele, located within a single establishment or group and all engaged in working towards one common purpose.” Who said this
+(A) R.Astall
+(B) UNESCO
+(C) J.D.Brown
+(D) E.C.Richardson
+Answer: (A)
+
+Reading centre’s, story hours, exhibitions and reading to literature are forms of …
+(A) Extension service
+(B) Service of a public library
+(C) Both
+(D) None
+Answer: (C)
+
+Which library first introduced the printed catalog
+(A) British Museum
+(B) Library of Congress
+(C) Lelin State
+(D) Imperial Library
+Answer: (A)
+
+Informal self education is possible in what kind of library?
+(A) National Library
+(B) Public Library
+(C) Specific Library (D) College Library
+Answer: (B)
+
+
+
+
+
+
+
+
+UGC-NET Objective Question, Practice Set - E-2 (51-100)
+
+50. Which of the following variables cannot be expressed in quantitative terms?
+(A) Socio-economic Status
+(B) Marital Status
+(C) Numerical Aptitude
+(D) Professional Attitude
+Answer: (C)
+ 
+51. The essential qualities of a researcher are
+(A) Spirit of free enquiry
+(B) Reliance on observation and evidence
+(C) Systematization or theorizing of knowledge
+(D) All the above
+Answer: (D)
+
+52. In the process of conducting research ‘Formulation of Hypothesis” is followed by
+(A) Statement of Objectives
+(B) Analysis of Data
+(C) Selection of Research Tools
+(D) Collection of Data
+Answer: (C)
+
+53. A research paper is a brief report of research work based on
+(A) Primary Data only
+(B) Secondary Data only
+(C) Both Primary and Secondary Data
+(D) None of the above
+Answer: (C)
+
+54. One of the following is not an open source software :
+(A) D’space 
+(B) Windows 
+(C) Green-stone 
+(D) Linux
+Answer: (B) Windows
+
+55. When RRRLF was established? 
+(A) 1970 
+(B) 1971 
+(C) 1972 
+(D) 1974 
+Answer: (C) 
+
+56. Cumulative book index is published from 
+(A) India 
+(B) USA 
+(C) Canada 
+(D) Thailand 
+Answer: (B)
+
+57. Statesman year book is published from 
+(A) London 
+(B) New york 
+(C) Calcutta 
+(D) Chicago 
+Answer: (A) (MacMillan , Annual) 
+
+58. Word of learning is Published by 
+(A) Asian events 
+(B) Keesing’s 
+(C) Europa publication 
+(D) Harper & Row 
+Answer: (C) ( London) 
+
+59. Who is the editor of “Library Herald” 
+(A) Krishan Kumar 
+(B) C. K. Sharma 
+(C) S. R. Ranganathan 
+(D) F.Monbray Volte 
+Answer: (A)
+
+60. Who was Published the monthly Journal “The Library World’ 
+(A) Krishan kumar 
+(B) J. D. Brown 
+(C) H. W. Wilson 
+(D) K. Navlavi 
+Answer: (B)
+
+61. Facts of File is weekly digest of 
+(A) Indian events 
+(B) American events 
+(C) World events 
+(D) England events 
+Answer: (C)
+62. Who is the first editor of “Modern Librarian”? 
+(A) F.Monbrary Volte 
+(B) Dr. S. R. Ranganathan 
+(C) J. D. Brown 
+(D) Krishan Kumar 
+Answer: (A)
+63. Indian national Bibliographical first appeared in 
+(A) 1947 
+(B) 1957 
+(C) 1967 
+(D) 1937 
+Answer: (B) 
+64. Who is the author of “Dictionary of anonymous and pseudonymous literature” 
+(A) S. Halkett & J. Laing 
+(B) Robert Proctor 
+(C) Ralph De sols 
+(D) Hanuman Sastri 
+Answer: (A)
+65. Compton year book contains 
+(A) Political events 
+(B) Cultural events 
+(C) Outstanding events 
+(D) Economic events 
+Answer: (C) 
+66.Online Europa year book has a coverage since 
+(A) 1965 
+(B) 1975 
+(C) 1984 
+(D) 1985 
+Answer: (D) 
+67. Which of the following is a multi-subject gateway? 
+(A) Renardus 
+(B) Humbul 
+(C) Sapling 
+(D) EdWEb 
+Answer: (A) 
+
+68. Which of the following is a specialized information organization online tool? 
+(A) Mamma 
+(B) Dogpile 
+(C) Vivisimo 
+(D) Entireweb 
+Answer: (C) 
+
+69. Research periodicals are which category of sources? 
+(A) Primary 
+(B) Secondary 
+(C) Tertiary 
+(D) Non documentary. 
+Answer: (A) 
+
+70. Reference sources are those 
+(A) Which are large in size? 
+(B) Which are read at home easily? 
+(C) Which used to obtain particular information? 
+(D) Which are costly? 
+Answer: (C) 
+
+71. Who is the publisher of Encyclopedia of Library and information science? 
+(A) Boweker 
+(B) H.W.Wilson company 
+(C) M.Dekker 
+(D) H.W.Wilson 
+Answer: (C) 
+72.Retrospective search service is a type of 
+(A) Referral service 
+(B) Responsive service 
+(C ) CAS 
+(D) SDI 
+Answer: (B) 
+73. Which part of new encyclopedia Britannica is useful for ready references? 
+(A) Macropaedia 
+(B) Propaedia 
+(C ) Micropaedia 
+(D) Premedia 
+Answer: (B) 
+
+74. Year book are also known as 
+(A) Hand book 
+(B) annual 
+(C ) Directory 
+(D) Dictionary 
+Answer: (B) 
+75. What is India: A reference annual? 
+(A) Year Book 
+(B) Almonac 
+(C ) Gide book 
+(D) Hand book 
+Answer: (A) 
+
+76. What is Trade bibliography? 
+(A) List of Author Bibliography 
+(B) List of Special Bibliography 
+(C ) List of books in print or for sale compiled by a publisher 
+(D) List of books of trade Library 
+Answer: (C) 
+ 
+77. What are the suitable reference sources to know about the information of a particular place? 
+(A) Directory 
+(B) Gazetteer 
+(C) Encyclopedia 
+(D) Year book 
+Answer: (B) 
+78. What is the suitable reference sources to find out the list of historical monuments of Delhi? 
+(A) Atlas 
+(B) Gazetteer 
+(C) Guide book 
+(D) Globe 
+Answer: (C) 
+ 
+79. What do you call a collection of maps, tables, charts, etc.? 
+(A) Globe 
+(B) Gazetteer 
+(C) Atlas 
+(D) Map 
+Answer: (C) 
+ 
+80. How many volumes Micropaedia of new Encyclopedia Britannica is published? 
+(A) 2 
+(B) 10 
+(C) 19 
+(D) 12 
+Answer: (B) 
+ 
+81. Encyclopedia Americana consists of 
+(A) 20 Volumes 
+(B) 25 Volumes 
+(C) 28 Volumes 
+(D) 30 Volumes 
+Answer: (D) 
+ 
+82. Which of the following are not the secondary sources? 
+(A) Encyclopedia 
+(B) Digest 
+(C) Thesis 
+(D) Text book 
+Answer: (C) 
+ 
+83. What is the publication frequency of books in print? 
+(A) Monthly 
+(B) Weekly 
+(C) Annually 
+(D) Quarterly 
+Answer: (C) 
+ 
+84. What is National bibliography? 
+(A) List of books of National Library 
+(B) List of books published in a particular Nation 
+(C) List of books written by National government 
+(D) List of books on a nation 
+Answer: (B) 
+ 
+85. What is world of learning? 
+(A) Directory 
+(B) Encyclopedia 
+(C) Dictionary 
+(D) Year book 
+Answer: (A) 
+ 
+86. What is the frequency of I.N.B.? 
+(A) Quarterly 
+(B) Monthly 
+(C) Weekly 
+(D) Annual 
+Answer: (B)
+87. ‘ Facts on File’ is a 
+(A) Weekly list 
+(B) Fortnightly 
+(C) Monthly 
+(D) Quarterly 
+Answer: (A) 
+88. The term “Information Service” is an improvised name … 
+(A) Administration 
+(B) Documentation 
+(C) Bibliography 
+(D) Reference service 
+Answer: (D)
+
+89. Which terms was coined by S.R. Ranganathan for mobile libraries 
+(A) Moving library 
+(B) Library on wheels 
+(C) Library machine 
+(D) All of the above 
+Answer: (B)
+
+90. Reading centre, story hours, exhibition and reading to literature are form of 
+(A) Extension service
+(B) Service of Public library
+(C) Both
+(D) None
+Answer: (A)
+
+91. Who Invented the Dictionary Catalogue? 
+(A) Dr. S. R. Ranganathan 
+(B) C. A. Cutter 
+(C) D. B. Krishna Rao 
+(D) K. N. Raj 
+Answer: (B)
+
+92. What is another name of Added entries? 
+(A) Main entry 
+(B) Cross reference entry 
+(C) Secondary entries 
+(D) Subject entry 
+Answer: (C)
+ 
+93. When was SLSH published? 
+(A) 1903 
+(B) 1897 
+(C) 1923 
+(D) 1933 
+Answer: (C)
+
+94.  When was MARC project completed? 
+(A) 1987 
+(B) 1967 
+(C) 1947 
+(D) 1968 
+Answer: (B)
+ 
+95. Who defined notation as shorthand sign 
+(A) Dr. S. R. Ranganathan 
+(B) Benjamin A. Custer 
+(C) Immanuel Kant 
+(D) E. C. Richardson 
+Answer : (D)
+ 
+96. In which year DDC 23rd edition was published 
+(A) 2000 
+(B) 2011 
+(C) 2003 
+(D) 2010 
+Answer: (B)
+ 
+97. The word classification comes from the Latin word 
+(A) Classis 
+(B) Classes 
+(C) Clauses 
+(D) Fiction 
+Answer: (A)
+ 
+98. The first edition of DDC published in 
+(A) 1875 
+(B) 1876 
+(C) 1874 
+(D) 1896 
+Answer: (B)
+ 
+99. The first edition of UDC published in 
+(A) 1904 
+(B) 1901 
+(C) 1905 
+(D) 1894 
+Answer: (C)
+
+100. Who is the publishers of Sear’s list of subject headings
+(A) Dr. S. R. Ranganathan 
+(B) Brown 
+(C) H. W. Wilson 
+(D) C. A. Cutter 
+Answer: (C)
+
+
+
+
+
+
+Question Bank for UGC-NET - 4
+
+Theory X and Theory Y is developed by
+(A) Louis Brandeis
+(B) Douglas Mc Gregor
+(C) Abraham Maslo
+(D) Mayo
+Answer: (B)
+
+ISBN now consists of how many digit
+(A) 10 
+(B) 9
+(C) 15
+(D) 13
+Answer: (D)
+
+Herzberg’s theory deals with
+(A) Staffing 
+(B) Directing
+(C) Motivation
+(D) Planning
+Answer: (C)
+
+Who is the father of Scientific Management
+(A) F.W. Taylor 
+(B) Harold Koontz
+(C) Peter F. Drucker
+(D) Luther Gulick
+Answer: (A)
+
+CPM (Critical Path Method) is developed by
+(A) Dupoint Company
+(B) Aircraft Corporation
+(C) IIM
+(D) IBM
+Answer: (A)
+
+How many digits have in the ISSN 
+(A) 10
+(B) 8
+(C) 13
+(D) 15
+Answer: (B)
+
+Main use of Shelf list is
+(A) Cataloging
+(B) Circulation
+(C) Stock Verification
+(D) Book Selection
+Answer: (C)
+
+Theory X and Theory Y related to
+(A) Planning 
+(B) Motivation
+(C) Directing
+(D) Staffing
+Answer: (B)
+
+Which national agency in India is responsible for assigning the ISBN
+(A) RRRLF
+(B) BARC
+(C) NCL
+(D) National Library of India
+Answer: (A)
+
+Zero Base Budgeting system was propounded by
+(A) Peter F. Drucker
+(B) P.N. Kaula
+(C) E.Mayo
+(D) Pter Phyrr
+Answer: (D)
+
+When Zero Base Budgeting system was first prepared
+(A)1950
+(B) 1960
+(C)1970
+(D) 1980
+Answer: (C)
+
+Posting the right person at the right place is called                 
+(A) Recruitment
+(B) Coaching
+(C) Deployment
+(D) Induction
+Answer: (A)
+
+TQM is a system of continuous improvement employing participative management and centered on needs of the                 
+(A) Customers
+(B) Staff
+(C) Organization
+(D) Government
+Answer: (C)
+
+Financial support given to libraries are of two types - Recurring and
+(A) Ad-hoc
+(B) Endowments
+(C) Annual
+(D) Non-recurring
+Answer: (B)
+
+Principle of maximum aggregate benefit is concerned with    
+(A) Growth of library
+(B) Library use
+(C) Library service
+(D) Library fee
+Answer: (C)
+
+A budget which mainly covers items of current revenue and expenditure is called     
+(A) Programme budget
+(B) Welfare economics
+(C) Current budgeting
+(D) Capital budgeting
+Answer: (D)
+
+
+The library budget of a university is passed by the ?
+(A) Senate
+(B) Executive Council
+(C) Academic Council
+(D) Research Council
+Answer: (B)
+
+In fund accounting,fund can not be used for other purposes.
+(A) Recurring
+(B) Non-recurring
+(C) Restricted
+(D) Encumbering
+Answer: (A)
+
+Scrutiny of financial transactions is called
+(A) Budgeting
+(B) Programming
+(C) Accounting
+(D) Auditing
+Answer: (D)
+
+What are the two parts of the annual report of the library
+(A) Primary and Secondary
+(B) Analytical and Systematic
+(C) Upper and Lower
+(D) Descriptive and Statistical
+Answer: (D)
+
+Who is the pioneer of open access system in British libraries
+(A) Nine e.Brown
+(B) James Duff Brown
+(C) John cotton dana
+(D) S. R. Ranganathan
+Answer: (B)
+
+When was Browne charging system started? 
+(A) 1895
+(B) 1896
+(C) 1899
+(D) 1875
+Answer: (A)
+
+Who started New york Charging system? 
+(A) Peter Drucker
+(B) Elton Mayo
+(C) John Cotton Dana
+(D) Francis Bacon
+Answer: (C)
+
+When did electrically operated book charging system introduced first?
+(A) 1926 
+(B) 1905
+(C) 1933
+(D) 1932
+Answer: (D)
+
+How many columns are there in the accession register?
+(A) 10 
+(B) 12
+(C) 14
+(D) 16
+Answer: (C)
+
+When was PERT developed? 
+(A) 1958
+(B) 1968
+(C) 1955
+(D) 1948
+Answer: (A)
+
+Who had invented the MBO? 
+(A) Eltomn Mayo
+(B) Frederic Winslow Taylor
+(C) Peter Drucker
+(D) Kermeth Blanchard
+Answer: (C) (1954)
+
+PPBS relates to 
+(A) Book selection 
+(B) Journal selection
+(C) Budgeting
+(D) Library records
+Answer: (C)
+
+The standard “X” and theory “Y” was conceived by
+(A) Peter F.Drucker
+(B) Doughlas Mc Gregor
+(C) Gulik and URwick
+(D) Taylor
+Answer: (B)
+
+Zero based budget is concerned with
+(A) Present
+(B) Past
+(C) Future
+(D) Remote future
+Answer: (C)
+
+Who is the father of Classical School
+(A) Lyndall Urwick
+(B) Gulick
+(C) Cutter
+(D) Henri Fayol
+Answer: (D)
+
+Who coined the word POSDCORB 
+(A) Henri Foyal
+(B) Luther Gulick
+(C) Herbert
+(D) Elizabeth stone
+Answer: (B)
+
+Another term of PERT is
+(A) CPM
+(B) POSDCORB
+(C) MBO
+(D) HRM
+Answer: (A)
+
+POSDCORB is related to
+(A) Library cataloguing
+(B) Library reference service
+(C) Library administration
+(D) Library automation
+Answer: (C)
+
+Who introduced Three card system
+(A) Krishan Kumar 
+(B) C. K. Sharma
+(C) Cutter
+(D) S. R. Ranganathan
+Answer: (D)
+
+What are the standard size of the Accession Register is
+(A) 16” * 12” 
+(B) 16” * 13”
+(C) 16” * 11”
+(D) 16” * 18” Answer: (B)
+
+A good library building is an outcome of librarian and                  .
+(A) Registrar
+(B) Building Corporation
+(C) Finance Officer
+(D) Architect
+Answer: (D)
+
+.......... are the storage areas for the various types of documents kept in a library.
+A. Tasks  
+B. Racks
+C. Stacks
+D. Desks
+Answer (C)
+
+Study carrels are exclusive areas meant for……………
+A. students
+B. public
+C. women
+D. researchers
+Answer (D)
+
+Library catalogue cards are filed in specially designed. drawers called                 
+A. Charging tray
+B. Catalogue cabinet
+C. Display rack .
+D. Filling equipment
+Answer (B)
+
+Information Gatekeepers come under sources. 
+A documentary
+B. human
+C. institutional
+D. neo-conventional
+Answer (A)
+
+…………… categorises documents into three types such as primary, secondary and tertiary.
+A. Grogan
+B. Skeltor
+C. Dr.S.R. Ranganathan
+D. Hanson
+Answer (A)
+
+...........is a legal document and can be used as a source of industrial information.
+A. Report
+B. Law Review
+C. Patent
+D. Specification
+Answer (D)
+
+In Encyclopaedia Britianica...acts as an index to macropaedia. 
+A. Bibliography
+B. Introduction Part
+C. Propaedia
+D. Micropaedia
+Answer (D)
+
+One of the book selection principles states that “the best reading for the largest number at the …Cost.”
+A. maximum
+B. medium
+C. least
+D. zero
+Answer (C)
+
+Payments for the books purchased can be made only after
+A. accessioning 
+B. classification
+C Cataloguing
+D arrangement in the shelve
+Answer (A)
+
+The standard size of an accession register is ? 
+A.15” x 13”
+B. 16 x 13”
+C.12” x 5”
+D. 5” x 3”
+Answer (B)
+
+ISBN stands for                 
+A. Integrated Services Bibliographic Network
+B. Indian Standard Book Number
+C. International Standard Book Number
+D. International Standard for Book and Non- book
+Answer (C)
+
+The three card system introduced by Ranganathan are 
+(i) Register Card 
+(ii) Check Card
+(iii)……..
+A. KARDEX B LINDEX
+C. Ledger Card
+D. Classified Index Card
+Answer (D)
+
+Technical section performs mainly two functions namely classification and………. 
+A. accessioning
+B. bills payment
+C. cataloguing
+D. shelving
+Answer (C)
+
+PRECIS was developed by Derek Austin for use in the                 
+A. BNB
+B. INB
+C. ISBD
+D. ISBN
+Answer (A)
+
+
+
+
+
+
+
+Question Bank for UGC-NET - 5
+
+Indian national Bibliographical first appeared in
+(A) 1947
+(B) 1957
+(C) 1967
+(D) 1937
+Answer: (B)
+
+Who is the author of “Dictionary of anonymous and pseudonymous literature” 
+(A) S. Halkett & J. Laing
+(B) Robert Proctor
+(C) Ralph De sols
+(D) Hanuman Sastri
+Answer: (A)
+
+Compton year book contains
+(A) Political events
+(B) Cultural events
+(C) Outstanding events
+(D) Economic events
+Answer: (C)
+
+Online Europa year book has a coverage since
+(A) 1965 
+(B) 1975
+(C) 1984
+(D) 1985
+Answer: (D)
+
+Which of the following is a multi-subject gateway?
+(A) Renardus 
+(B) Humbul
+(C) Sapling
+(D) EdWEb
+Answer: (A)
+
+Which of the following is a specialized information organization online tool? 
+(A) Mamma
+(B) Dogpile
+(C) Vivisimo
+(D) Entireweb
+Answer: (C)
+
+Research periodicals are which category of sources?
+(A) Primary 
+(B) Secondary
+(C) Tertiary
+(D) Non documentary.
+Answer: (A)
+
+Reference sources are those
+(A) Which are large in size?
+(B) Which are read at home easily?
+(C) Which used to obtain particular information?
+(D) Which are costly?
+Answer: (C)
+
+Who is the publisher of Encyclopedia of Library and information science? 
+(A) Boweker
+(B) H.W.Wilson company
+(C) M.Dekker
+(D) H.W.Wilson
+Answer: (C)
+
+Retrospective search service is a type of
+(A) Referral service
+(B) Responsive service
+(C ) CAS
+(D) SDI
+Answer: (B)
+
+Which part of new encyclopedia Britannica is useful for ready references?
+(A) Macropaedia
+(B) Propaedia
+(C ) Micropaedia
+(D) Premedia
+Answer: (B)
+
+Year book are also known as
+(A) Hand book
+(B) annual
+(C ) Directory
+(D) Dictionary
+Answer: (B)
+
+What is India: A reference annual? 
+(A) Year Book
+(B) Almonac
+(C ) Gide book
+(D) Hand book
+Answer: (A)
+
+What is Trade bibliography?
+(A) List of Author Bibliography
+(B) List of Special Bibliography
+(C ) List of books in print or for sale compiled by a publisher
+(D) List of books of trade Library
+Answer: (C)
+
+Who publishes INIS Atom Index? 
+(A) INIS (Viena)
+(B) LC
+(C) ICSU
+(D) AGRIS
+Answer: (A)
+
+What is the meaning of E-Documents? 
+(A) All Documents other than printed 
+(B) Non-Paper documents
+(C ) In electronic form such as Cassettes, CD- ROMs, etc.
+(D) Audio visual tools
+Answer (C)
+
+Which of the following is not the documents?
+(A) Manuscript
+(B) Book
+(C) Inscription
+(D) Periodical
+Answer: (C)
+
+Generally the information sources are divided mainly in to following categories?
+(A) Primary and secondary.
+(B) Reference and information sources.
+(C) Documentary and non-documentary
+(D) Books and periodicals
+Answer: (C )
+
+What are non- documentary sources?
+(A) Which are in printed form.
+(B) Which are in not printed form
+(C) Which are nor documents
+(D) None of these
+Answer: (B)
+
+Today which type of information sources is most useful?
+(A) Reference sources
+(B) Documentary source
+(C) Non- Documentary source
+(D) Both the Documentary and Non- Documentary sources
+Answer: (C)
+
+Cover to cover translation is treated as
+(A) Selective dissemination service
+(B) Current awareness services
+(C) On demand services
+(D) Anticipatory services
+Answer: (B)
+
+What is the suitable reference sources to know about the information of a particular place?
+(A) Directory
+(B) Gazetteer
+(C) Encyclopedia
+(D) Year book
+Answer: (B)
+
+What is the suitable reference sources to find out the list of historical monuments of Delhi? 
+(A) Atlas
+(B) Gazetteer
+(C) Guide book
+(D) Globe
+Answer: (C)
+
+What do you call a collection of maps, tables, charts, etc.?
+(A) Globe
+(B) Gazetteer
+(C) Atlas
+(D) Map
+Answer: (C)
+
+How many volumes Micropaedia of new Encyclopedia Britannica is published?
+(A) 2 
+(B) 10
+(C) 19
+(D) 12
+Answer: (B)
+
+Encyclopedia Americana consists of
+(A) 20 Volumes 
+(B) 25 Volumes
+(C) 28 Volumes
+(D) 30 Volumes
+Answer: (D)
+
+Which of the following are not the secondary sources?
+(A) Encyclopedia
+(B) Digest
+(C) Thesis
+(D) Text book
+Answer: (C)
+
+What is the publication frequency of books in print?
+(A) Monthly 
+(B) Weekly
+(C) Annually
+(D) Quarterly
+Answer: (C)
+
+What is National bibliography?
+(A) List of books of National Library
+(B) List of books published in a particular Nation
+(C) List of books written by National government
+(D) List of books on a nation
+Answer: (B)
+
+What is world of learning? 
+(A) Directory
+(B) Encyclopedia
+(C) Dictionary
+(D) Year book
+Answer: (A)
+
+What is the frequency of I.N.B.? 
+(A) Quarterly
+(B) Monthly
+(C) Weekly
+(D) Annual
+Answer: (B)
+
+‘ Facts on File’ is a
+(A) Weekly list
+(B) Fortnightly
+(C) Monthly
+(D) Quarterly
+Answer: (A)
+
+The term “Information Service” is an improvised name …
+(A) Administration 
+(B) Documentation
+(C) Bibliography
+(D) Reference service
+Answer: (D)
+
+Which terms was coined by S.R. Ranganathan for mobile libraries
+(A) Moving library
+(B) Library on wheels
+(C) Library machine
+(D) All of the above
+Answer: (B)
+
+Abstracting service provides… 
+(A) Abstract of articles
+(B) Whole bibliographic description of articles
+(C) Whole bibliographic description along
+with abstracts of article
+(D) Whole bibliographic sources
+Answer: (C)
+
+Which service demands the creation of a
+‘user’ profile?
+(A) CAS
+(B) Information retrieval
+(C) SDI
+(D) Reference service
+Answer: (C)
+
+“Reference service is the contact between the right reader and the right book in the right personal way” was stated by…
+(A) D J Fockett
+(B) S R Ranganathan
+(C) James I Wyer
+(D) A.L.A Glossary of library terms
+Answer: (B)
+
+CAS is defined as
+(A) A process of dissemination of information
+(B) A process of information
+(C) A process of dissemination of current information
+(D) A simple information service
+Answer: (C)
+
+Feedback mechanism is a part of which service?
+(A) Reprography service
+(B) CAS
+(C) Translation service
+(D) SDI
+Answer: (D)
+
+Mobile library is a kind of which service? 
+(A) Reference service
+(B) Extension service
+(C) Ready reference service
+(D) Long range reference service
+Answer: (B)
+
+The person who provides reference service is called
+(A) Chief librarian
+(B) Grade One Librarian
+(C) Deputy Librarian
+(D) Reference Librarian
+Answer: (D)
+
+Reading centre, story hours, exhibition and reading to literature are form of
+(A) Extension service
+(B) Service of Public library
+(C) Both
+(D) None
+Answer: (A)
+
+Who Invented the Dictionary Catalogue? 
+(A) Dr. S. R. Ranganathan
+(B) C. A. Cutter
+(C) D. B. Krishna Rao
+(D) K. N. Raj
+Answer: (B)
+
+What is the another name of Added entries? 
+(A) Main entry
+(B) Cross reference entry
+(C) Secondary entries
+(D) Subject entry
+Answer: (C)
+
+When was SLSH published? 
+(A) 1903
+(B) 1897
+(C) 1923
+(D) 1933
+Answer: (C)
+
+When was MARC project completed? 
+(A) 1987
+(B) 1967
+(C) 1947
+(D) 1968
+Answer: (B)
+
+Who defined notation as shorthand sign
+(A) Dr. S. R. Ranganathan
+(B) Benjamin A. Custer
+(C) Immanuel Kant
+(D) E. C. Richardson
+Answer : (D)
+
+Who enunciated the five fundamental categories
+(A) Benjamin A. Custer
+(B) Paul Otlet
+(C) Dr. S. R. Ranganathan
+(D) W. C. Sayers
+Answer: (C)
+
+Who enunciated the subject Classification
+(A) J. D. Brown
+(B) W. C. Sayers
+(C) Benjamin A.Custer
+(D) Frist Donker Duyvis
+Answer: (A)
+
+How many Auxiliary tables are there in DDC 23rd Edition
+(A) 16 
+(B) 6
+(C) 7
+(D) 8
+Answer: (B)
+
+Colon classification was first published in
+(A) 1905
+(B) 1931
+(C) 1933
+(D) 1944
+Answer: (C)
+
+Phoenix schedules are part of which classification
+(A) CC
+(B) DDC
+(C) UDC
+(D) LCC
+Answer: (B)
+
+Sear’s List of Subject Headings (SLSH) is mainly useful for
+(A) Small and medium libraries
+(B) Special libraries
+(C) Academic libraries
+(D) College libraries
+Answer: (A)
+
+In which year DDC 23rd edition was published
+(A) 2000 
+(B) 2011
+(C) 2003
+(D) 2010
+Answer: (B)
+
+The word classification comes from the Latin word
+(A) Classis 
+(B) Classes
+(C) Clauses
+(D) Fiction
+Answer: (A)
+
+The first edition of DDC published in
+(A) 1875 
+(B) 1876
+(C) 1874
+(D) 1896
+Answer: (B)
+
+The first edition of UDC published in
+(A) 1904
+(B) 1901
+(C) 1905
+(D) 1894
+Answer: (C)
+
+Who is the publishers of Sear’s list of subject headings
+(A) Dr. S. R. Ranganathan
+(B) Brown
+(C) H. W. Wilson
+(D) C. A. Cutter
+Answer: (C)
+
+MESH is a
+(A) Thesaurus 
+(B) Dictionary
+(C) Journal
+(D) Library
+Answer: (A)
+
+The First edition of DDC Consisted of
+(A) 144 pages
+(B) Four volume
+(C) 44 pages
+(D) 124 pages
+Answer: (C) (1876)
+
+What are the four entity of FRBR model? 
+(A) Personality, Matter, Energy, Space
+(B) Work, Expression, Manifestation, Item
+(C) Book, Form, Availability, Type
+(D) Discipline, Entity, Action, Personality
+Answer: (B)
+
+Who is the Editor in Chief of 23rd Edition of DDC
+(A) Benjamin A. Custer 
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (D)
+
+When was the different typological study towards mode of formation of subjects done? 
+(A) 1950
+(B) 1960
+(C) 1970
+(D) 1975
+Answer: (A)
+
+In which edition “Auxiliary table for area” was first introduced?
+(A) DDC 14 
+(B) DDC 15
+(C) DDC 16
+(D) DDC 17
+Answer: (D)
+
+What does LED stands for in CC? 
+(A) Latest Energy Developments 
+(B) Latest Effective Decade
+(C) Large Energy Distribution
+(D) Lowest Effective Decade
+Answer: (B)
+
+The term prenatal cataloguing first used by
+(A) Michael Gorman
+(B) Dr. S.R.Ranganathan
+(C) E.B.Ross
+(D) Melvin Dewey
+Answer :(B)
+
+The Dewey Decimal Classification divides human knowledge into
+(A) 10 basic categories. 
+(B) 100 basic categories.
+(C) 1000 basic categories.
+(D) 10000 basic categories.
+Answer: (A)
+
+Who devised Dewey Decimal Classification(DDC) System?
+(A) Melville Dewey
+(B) Dr. S. R. Ranganathan
+(C) Tim Berners-Lee
+(D) Vint Cerf
+Answer: (A)
+
+Call Number of a Book Means
+(A) Book Number
+(B) Class Number
+(C) Both (A) and (B) are true
+(D) None of the above
+Answer: (C)
+
+Accession Number means
+(A) Call Number of a book
+(B) Unique Number for a book inside a particular library.
+(C) Book Number
+(D) Class number Answer: (B)
+
+Who is the Editor in Chief of 19th Edition of DDC
+(A) Benjamin A. Custer 
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (A)
+
+Who is the Editor in Chief of 20th Edition of DDC
+(A) Benjamin A. Custer 
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (B)
+
+Who is the Editor in Chief of 21st Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (C)
+
+Who is the Editor in Chief of 22nd Edition of DDC
+(A) Benjamin A. Custer
+(B) John P. Comaromi
+(C) Winton E. Matthews
+(D) John S. Mitchell
+Answer: (D)
+
+“POSDCORB” coined by
+(A) Peter F. Drucker 
+(B) Harold Koontz
+(C) F.W. Taylor
+(D) Luther Gulick
+Answer: (D)
+
+When Peter F.Drucker defined M.B.O.(Management by Objectives)?
+(A) 1950
+(B) 1960
+(C)1954
+(D) 1964
+Answer: (C)
+
+Who said the demand and supply theory of books?
+(A) Melvil Dewey
+(B) Dr. S. R. Ranganathan
+(C) Mc Colvin
+(D) Sayers Answer: (C)
+
+"To provide the best books to the maximum readers at the least cost" said by
+(A) Dr. S. R. Ranganathan
+(B) P. N. Kaula
+(C) E.Mayo
+(D) Melvil Dewey
+Answer: (D)
+
+
+
+
+
+
+
+
+
+
+
+
+Test Yourself Series - 1 (Library & Society), Library and Information Science (UGC-NET)
+
+1. Library play an important role in supporting educational, cultural and ......activities of a society.
+
+a. Technical
+b. Research
+C. Vocational
+D. Industrial
+
+2. .........have occuupied the basic resources of an information society.
+a. Educational and Culture
+b. Agriculture and Industries
+c. Information and Knowledge
+d. Academic and Public Libraries
+
+3. The first law of library science is restated as.............are for use.
+a. Library/Information
+b. Books/Readers/
+c. Information/Knowledge
+d. Documents/Information.
+
+4. Library building and furniture should be.........in its design.
+a. Economic
+b. Functional
+c. Comfortable
+d. L-Shaped
+
+5.The third law of Library Science works in full conformity with........
+a. Resourch Sharing
+b. Closed Access
+c. Open Access
+d. Obligation of Staff
+
+6. The basic components of a library are i] books ii] Readers and ii].......
+a. Staff
+b. Budget
+c. Building
+d. Furniture
+
+7. While planning and designing in library building there should be adequate provision of expansion both horizontally and ..........
+a. height
+b. vertically
+c. width
+c. length
+
+8. Right information to the right user is the implication of...............Law of Library Science
+a. Second
+b. Third
+c. First
+D. Fourth
+
+9. Book Club or reading society was another form of ............library.
+a. Monastic
+b. Subscription
+c. Correlation
+d. Commercial
+
+10. William Ewart and .........were two personalities responsible for library legislation in U.K.
+a. Joseph Brotherlon
+b. George Biraback
+c. Allan Ramsay
+d. W.K. Smith
+
+11. The first general library law in USA was enacted in .................
+a. 1950
+b. 1956
+c. 1964
+d. 1970
+
+
+12. The acronym for Assocation for Information Management is.....................
+a. IAMA
+b. AIM
+c. ASLIB
+d. IIM
+
+13. The earlier name of National Library, Calcutta was..........
+a. Natiional Information Centre
+b. National Public Library
+c. Calcutta Public Library
+d. The Imperial Library
+
+14. NAPLIS document was prepared by a committee appointed by Department of .................., Govt. Of India.
+a. Education
+b. Information and Broadcasting
+c. Culture
+d. Information Technolgy
+
+15. ALA Glossary of Library Terms defines the National Library as 'a library maintained by a ......
+a. Province
+b. Nation
+c. County
+d. State.
+
+16. .................has been declared as an institution of national importance by Govt. of India
+a. National Library, Calcutta
+b. Delhi Public Library, Delhi
+c. Connemera Public Library, Chennai
+d. Asiatic Society Library, Mumbai
+
+17. Librarian of Library of Congress is appointed by.........
+a. President of USA
+b. Chairman, Congress
+c. Chief Executive, Library Affairs
+d. President of Library of Congress
+
+18. A School library inculcates.......children among the school
+a. Saving habits
+b. competing habits
+c. reading habits
+d. writing habits.
+
+19. .........committee recommended 20% of the college budget for the maintenance and development of the library.
+a. Prof. S.R. Ranganathan
+b. Prof. S. Radhakrishnan
+c. Prof. Lakshanaswamy
+d. Prof. K. N. Raj
+
+20. Information and Library Network (INFLIBNET) centre is established by.........
+a. UGC
+b. RRRLF
+c. NBT
+d. NISSAT
+
+21. The latest UNESCO Public Library Menifesto is published in the year........
+a. 1990
+b. 1994
+c. 1995
+d. 1998
+
+
+22. Enactment of Public Library Act is otherwise known as...............
+a. Right to Information
+b. Intellectual Property Right
+c. Copy Right
+d. Library Legislation
+
+23. Public Library acts enable to create a cadre of .......
+a. All India Library Service
+b. State Library Service
+c. Indian Information
+d. Subordinate Library
+
+24. Model Public Library Bill, 1963 recommended library cess at the rate of .........per rupee on house tax on property tax.
+a. Six Paise
+b. Four Paise
+c. Seven Paise
+d. Ten Paise
+
+25. Haryana Public Libraries act was passed in the year........
+a. 1987
+b. 1989
+c. 1990
+d. 1992
+
+26. In 1993................state enacted public libraries act.
+a. Mizoram
+b. Sikkim
+c. Goa
+d. Nagaland
+
+27. .....................is the State Central Library of Tamil Nadu
+a. Oriental Library
+b. Madras University Library
+c. Connemera Public Library
+d. Ranganathan Insitute of Library Studies
+
+28. .........................Act provide reservation on one women and one ST members to all library Committees.
+a. Kerala
+b. Goa
+c. Manipur
+d. Gujrat
+
+
+29. Administration of Public Libraries in Manipur comes under...........
+a. Panchayatiraj Department
+b. Information and Public Relations Department
+c. Cultural Department
+d. Education Department
+
+30. Which state of the following does not have the provision of library cess.
+a. Kerala
+b. Maharashtra
+c. Andhra Pradesh
+d. Tamil Nadu
+
+31. Dr. S. R. Ranganathan has grouped the users in to four categories such as i] general i] ordinary iii] freshman iv]........
+a. students
+b. specialist inquirer
+c. public
+d. researchers
+
+32. The British Library at........has established a centre for research on user studies (CRUS)
+a. Leeds University
+b. University of Oxford
+c. University of Wales
+d. University of Shefield
+
+33. ...................is one of the indirect methods of knowing the user's needs.
+a. Citatioin analysis
+b. Interviews
+c. Field Survey
+d. Using Statics
+
+34. A Case study of use of Delhi University Library was conducted in ...................
+a. 1962
+b. 1965
+c. 1968
+d. 1970
+
+35. Motivating the potential users to use information resources is known as..........
+a. Bibliographic instruction
+b. User's Profile
+c. User Education
+d. User Orientation
+
+36. Introduction the user to the general methods of library usage and service is called
+a. Orientation
+b. Instruction
+c. Initiation
+d. Induction
+
+37. ..............attemted to make user education programmes initiated in less developed.
+a. INIS
+b. AGRIS
+c. NISSAT
+d. UNISIST
+
+38. Calcutta Library Network, CALIBNET was sponsored by.............
+a. CSIR
+b. NISSTAD
+c. NISSAT
+d. ICAR
+
+39. .....................is a Natioinal level Library and Information Network.
+a. INFLIBNET
+b. CALIBNET
+c. MALIBNET
+d. NICNET
+
+40. The process of supplying the relevant documents on a specific topic to the user is known as .........
+a. Bibliographic Service.
+b. current Awareness service
+c. Document Delivery Service
+d. Reprographic serive
+
+41. Indian Library Association , ILA was founded in .....
+a. 1933
+b. 1945
+c. 1930
+d. 1925
+
+42. ILA has developed a database of libraries called.................
+a. Soul
+b. Nalanda
+c. Oasis
+d. CDS/ISIS
+
+43. ALA has instituted an award for creative professional achievement called.......
+a. John Daniel
+b. E.P. Dutton
+c. Melvil Dewey
+d. R. Ralph
+
+44. Journal of Librarianship is a serial publication of......
+a. American Librarian Association
+b. Indian Library Association
+c. The Library Association
+d. ASLIB
+
+
+45. Association for Information Management is located in..........
+a. Rome
+b. Washington
+c. Paris
+d. London
+
+46. IFLA has developed an internationally acceptable bibliographic standard namely
+a. CCF
+b. UNIMARC
+c. UK Marc
+
+
+47 FID headquarters is located at........
+a. Rome
+b. The Hague
+c. Viena
+d. Singapore
+
+48. ....................is an apex body for promoting Public Library Service in India
+a. NBT
+b. NISSAT
+c. INSDOC
+d. RRRLF
+
+49. Atom Index is a computerised database developed by...........
+a. MEDLARS
+b. INIS
+c. AGRIS
+d. DEVSIS
+
+50..................................serves as a national centre for India to AGRIS
+a. ARIC
+b. ASIC
+c. PID
+d. NISTAD
+
+
+
+
+
+
+
+
